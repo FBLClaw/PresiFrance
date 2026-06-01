@@ -1,0 +1,219 @@
+{
+  "1995": {
+    "t1": {
+      "participation": 79.66,
+      "candidates": [
+        { "prenom": "Lionel", "nom": "JOSPIN", "pourcentExprimes": 23.3, "voix": 6186652 },
+        { "prenom": "Jacques", "nom": "CHIRAC", "pourcentExprimes": 20.34, "voix": 5404490 },
+        { "prenom": "Édouard", "nom": "BALLADUR", "pourcentExprimes": 18.91, "voix": 5025103 },
+        { "prenom": "Jean-Marie", "nom": "LE PEN", "pourcentExprimes": 15.27, "voix": 4056610 },
+        { "prenom": "Robert", "nom": "HUE", "pourcentExprimes": 8.66, "voix": 2300978 }
+      ]
+    },
+    "t2": {
+      "participation": 79.66,
+      "candidates": [
+        { "prenom": "Jacques", "nom": "CHIRAC", "pourcentExprimes": 52.53, "voix": 15703209 },
+        { "prenom": "Lionel", "nom": "JOSPIN", "pourcentExprimes": 47.47, "voix": 14193788 }
+      ]
+    }
+  },
+  "1988": {
+    "t1": {
+      "participation": 84.23,
+      "candidates": [
+        { "prenom": "François", "nom": "MITTERRAND", "pourcentExprimes": 34.1, "voix": 10308607 },
+        { "prenom": "Jacques", "nom": "CHIRAC", "pourcentExprimes": 19.87, "voix": 6003712 },
+        { "prenom": "Raymond", "nom": "BARRE", "pourcentExprimes": 14.64, "voix": 4422608 },
+        { "prenom": "Jean-Marie", "nom": "LE PEN", "pourcentExprimes": 14.38, "voix": 4343974 },
+        { "prenom": "André", "nom": "LAJOINIE", "pourcentExprimes": 6.76, "voix": 2042110 }
+      ]
+    },
+    "t2": {
+      "participation": 84.4,
+      "candidates": [
+        { "prenom": "François", "nom": "MITTERRAND", "pourcentExprimes": 54.02, "voix": 16895339 },
+        { "prenom": "Jacques", "nom": "CHIRAC", "pourcentExprimes": 45.98, "voix": 14368737 }
+      ]
+    }
+  },
+  "1981": {
+    "t1": {
+      "participation": 81.09,
+      "candidates": [
+        { "prenom": "Valéry", "nom": "GISCARD D'ESTAING", "pourcentExprimes": 28.31, "voix": 8912435 },
+        { "prenom": "François", "nom": "MITTERRAND", "pourcentExprimes": 25.85, "voix": 8136516 },
+        { "prenom": "Jacques", "nom": "CHIRAC", "pourcentExprimes": 18.0, "voix": 5665522 },
+        { "prenom": "Georges", "nom": "MARCHAIS", "pourcentExprimes": 15.35, "voix": 4831717 },
+        { "prenom": "Brice", "nom": "LALONDE", "pourcentExprimes": 3.21, "voix": 1010738 }
+      ]
+    },
+    "t2": {
+      "participation": 81.09,
+      "candidates": [
+        { "prenom": "François", "nom": "MITTERRAND", "pourcentExprimes": 51.76, "voix": 15886753 },
+        { "prenom": "Valéry", "nom": "GISCARD D'ESTAING", "pourcentExprimes": 48.24, "voix": 14807437 }
+      ]
+    }
+  },
+  "1974": {
+    "t1": {
+      "participation": 84.23,
+      "candidates": [
+        { "prenom": "François", "nom": "MITTERRAND", "pourcentExprimes": 43.25, "voix": 11044373 },
+        { "prenom": "Valéry", "nom": "GISCARD D'ESTAING", "pourcentExprimes": 32.6, "voix": 8326774 },
+        { "prenom": "Jacques", "nom": "CHABAN-DELMAS", "pourcentExprimes": 15.11, "voix": 3857728 },
+        { "prenom": "Jean", "nom": "ROYER", "pourcentExprimes": 3.17, "voix": 809540 },
+        { "prenom": "Arlette", "nom": "LAGUILLER", "pourcentExprimes": 2.33, "voix": 595247 }
+      ]
+    },
+    "t2": {
+      "participation": 87.33,
+      "candidates": [
+        { "prenom": "Valéry", "nom": "GISCARD D'ESTAING", "pourcentExprimes": 50.81, "voix": 13260094 },
+        { "prenom": "François", "nom": "MITTERRAND", "pourcentExprimes": 49.19, "voix": 12836358 }
+      ]
+    }
+  },
+  "1969": {
+    "t1": {
+      "participation": 77.63,
+      "candidates": [
+        { "prenom": "Georges", "nom": "POMPIDOU", "pourcentExprimes": 43.11, "voix": 10126845 },
+        { "prenom": "Alain", "nom": "POHER", "pourcentExprimes": 23.31, "voix": 5476151 },
+        { "prenom": "Jacques", "nom": "DUCLOS", "pourcentExprimes": 21.27, "voix": 4996389 },
+        { "prenom": "Michel", "nom": "ROCARD", "pourcentExprimes": 7.93, "voix": 1862512 },
+        { "prenom": "Gaston", "nom": "DEFFERRE", "pourcentExprimes": 5.01, "voix": 1176462 }
+      ]
+    },
+    "t2": {
+      "participation": 77.63,
+      "candidates": [
+        { "prenom": "Georges", "nom": "POMPIDOU", "pourcentExprimes": 58.21, "voix": 11212371 },
+        { "prenom": "Alain", "nom": "POHER", "pourcentExprimes": 41.79, "voix": 8043294 }
+      ]
+    }
+  },
+  "1965": {
+    "t1": {
+      "participation": 84.75,
+      "candidates": [
+        { "prenom": "Charles", "nom": "DE GAULLE", "pourcentExprimes": 44.65, "voix": 10400612 },
+        { "prenom": "François", "nom": "MITTERRAND", "pourcentExprimes": 31.85, "voix": 7413910 },
+        { "prenom": "Jean", "nom": "LECANUET", "pourcentExprimes": 15.91, "voix": 3705537 },
+        { "prenom": "Jean-Louis", "nom": "TIXIER-VIGNANCOUR", "pourcentExprimes": 5.19, "voix": 1208714 },
+        { "prenom": "Pierre", "nom": "MARCILHACY", "pourcentExprimes": 1.04, "voix": 242190 }
+      ]
+    },
+    "t2": {
+      "participation": 84.75,
+      "candidates": [
+        { "prenom": "Charles", "nom": "DE GAULLE", "pourcentExprimes": 55.2, "voix": 13103211 },
+        { "prenom": "François", "nom": "MITTERRAND", "pourcentExprimes": 44.8, "voix": 10629011 }
+      ]
+    }
+  },
+  "2022": {
+    "t1": {
+      "participation": 73.69,
+      "candidates": [
+        { "prenom": "Emmanuel", "nom": "MACRON", "pourcentExprimes": 27.85, "voix": 9783058 },
+        { "prenom": "Marine", "nom": "LE PEN", "pourcentExprimes": 23.15, "voix": 8133828 },
+        { "prenom": "Jean-Luc", "nom": "MÉLENCHON", "pourcentExprimes": 21.95, "voix": 7712520 },
+        { "prenom": "Éric", "nom": "ZEMMOUR", "pourcentExprimes": 7.07, "voix": 2485226 },
+        { "prenom": "Valérie", "nom": "PÉCRESSE", "pourcentExprimes": 4.78, "voix": 1679028 },
+        { "prenom": "Yannick", "nom": "JADOT", "pourcentExprimes": 4.63, "voix": 1627353 },
+        { "prenom": "Jean", "nom": "LASSALLE", "pourcentExprimes": 3.13, "voix": 1101387 },
+        { "prenom": "Fabien", "nom": "ROUSSEL", "pourcentExprimes": 2.28, "voix": 802422 },
+        { "prenom": "Nicolas", "nom": "DUPONT-AIGNAN", "pourcentExprimes": 2.06, "voix": 725176 },
+        { "prenom": "Anne", "nom": "HIDALGO", "pourcentExprimes": 1.75, "voix": 616478 },
+        { "prenom": "Philippe", "nom": "POUTOU", "pourcentExprimes": 0.77, "voix": 268904 },
+        { "prenom": "Nathalie", "nom": "ARTHAUD", "pourcentExprimes": 0.56, "voix": 197090 }
+      ]
+    },
+    "t2": {
+      "participation": 71.99,
+      "candidates": [
+        { "prenom": "Emmanuel", "nom": "MACRON", "pourcentExprimes": 58.55, "voix": 18746828 },
+        { "prenom": "Marine", "nom": "LE PEN", "pourcentExprimes": 41.45, "voix": 13273980 }
+      ]
+    }
+  },
+  "2017": {
+    "t1": {
+      "participation": 77.77,
+      "candidates": [
+        { "prenom": "Emmanuel", "nom": "MACRON", "pourcentExprimes": 24.01, "voix": 8656343 },
+        { "prenom": "Marine", "nom": "LE PEN", "pourcentExprimes": 21.30, "voix": 7676843 },
+        { "prenom": "François", "nom": "FILLON", "pourcentExprimes": 20.01, "voix": 7212987 },
+        { "prenom": "Jean-Luc", "nom": "MÉLENCHON", "pourcentExprimes": 19.58, "voix": 7056002 },
+        { "prenom": "Benoît", "nom": "HAMON", "pourcentExprimes": 6.36, "voix": 2293277 },
+        { "prenom": "Nicolas", "nom": "DUPONT-AIGNAN", "pourcentExprimes": 4.70, "voix": 1693351 },
+        { "prenom": "Philippe", "nom": "POUTOU", "pourcentExprimes": 1.09, "voix": 394505 },
+        { "prenom": "Nathalie", "nom": "ARTHAUD", "pourcentExprimes": 0.64, "voix": 232428 }
+      ]
+    },
+    "t2": {
+      "participation": 74.56,
+      "candidates": [
+        { "prenom": "Emmanuel", "nom": "MACRON", "pourcentExprimes": 66.10, "voix": 20764326 },
+        { "prenom": "Marine", "nom": "LE PEN", "pourcentExprimes": 33.90, "voix": 10638372 }
+      ]
+    }
+  },
+  "2012": {
+    "t1": {
+      "participation": 79.48,
+      "candidates": [
+        { "prenom": "François", "nom": "HOLLANDE", "pourcentExprimes": 28.63, "voix": 10175682 },
+        { "prenom": "Nicolas", "nom": "SARKOZY", "pourcentExprimes": 27.18, "voix": 9659756 },
+        { "prenom": "Marine", "nom": "LE PEN", "pourcentExprimes": 17.90, "voix": 6379466 },
+        { "prenom": "Jean-Luc", "nom": "MÉLENCHON", "pourcentExprimes": 11.10, "voix": 3945053 },
+        { "prenom": "François", "nom": "BAYROU", "pourcentExprimes": 9.13, "voix": 3245323 }
+      ]
+    },
+    "t2": {
+      "participation": 80.35,
+      "candidates": [
+        { "prenom": "François", "nom": "HOLLANDE", "pourcentExprimes": 51.64, "voix": 18000266 },
+        { "prenom": "Nicolas", "nom": "SARKOZY", "pourcentExprimes": 48.36, "voix": 16842858 }
+      ]
+    }
+  },
+  "2007": {
+    "t1": {
+      "participation": 83.77,
+      "candidates": [
+        { "prenom": "Nicolas", "nom": "SARKOZY", "pourcentExprimes": 31.18, "voix": 11144836 },
+        { "prenom": "Ségolène", "nom": "ROYAL", "pourcentExprimes": 25.87, "voix": 9247270 },
+        { "prenom": "François", "nom": "BAYROU", "pourcentExprimes": 18.57, "voix": 6638555 },
+        { "prenom": "Jean-Marie", "nom": "LE PEN", "pourcentExprimes": 10.44, "voix": 3838750 }
+      ]
+    },
+    "t2": {
+      "participation": 83.97,
+      "candidates": [
+        { "prenom": "Nicolas", "nom": "SARKOZY", "pourcentExprimes": 53.06, "voix": 18978335 },
+        { "prenom": "Ségolène", "nom": "ROYAL", "pourcentExprimes": 46.94, "voix": 16790308 }
+      ]
+    }
+  },
+  "2002": {
+    "t1": {
+      "participation": 71.60,
+      "candidates": [
+        { "prenom": "Jacques", "nom": "CHIRAC", "pourcentExprimes": 19.88, "voix": 5516955 },
+        { "prenom": "Jean-Marie", "nom": "LE PEN", "pourcentExprimes": 16.86, "voix": 4792595 },
+        { "prenom": "Lionel", "nom": "JOSPIN", "pourcentExprimes": 16.18, "voix": 4493597 },
+        { "prenom": "François", "nom": "BAYROU", "pourcentExprimes": 6.84, "voix": 1947213 }
+      ]
+    },
+    "t2": {
+      "participation": 79.71,
+      "candidates": [
+        { "prenom": "Jacques", "nom": "CHIRAC", "pourcentExprimes": 82.21, "voix": 25540489 },
+        { "prenom": "Jean-Marie", "nom": "LE PEN", "pourcentExprimes": 17.79, "voix": 5529502 }
+      ]
+    }
+  }
+}

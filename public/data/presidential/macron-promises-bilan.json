@@ -1,0 +1,1489 @@
+{
+  "meta": {
+    "title": "Promesses de campagne vs bilan (Emmanuel Macron)",
+    "scope": "Mandat 2017-2022 (premier quinquennat), à partir des engagements formulés lors de la campagne présidentielle de 2017.",
+    "disclaimer": "Cette page est une synthèse pédagogique : les statuts (tenu, partiel, etc.) reprennent des travaux de presse et de contrôle cités pour chaque ligne. Ce n’est pas un jugement juridique ni le classement officiel d’un institut. Les médias et institutions utilisent des grilles différentes ; les pourcentages globaux varient selon les sources.",
+    "methodologyNote": "L’histogramme et le tableau (100 lignes) suivent la grille « 100 mesures phares » de franceinfo (47 / 28 / 25). L’article des Décodeurs du 12 mars 2022 s’appuie sur une autre base : Lui Président (~398 promesses du programme 2017), avec ses propres verdicts — voir la section « Autres bilans de référence » sous le graphique et le site luipresident.fr pour tout parcourir."
+  },
+  "referenceTallies": [
+    {
+      "id": "franceinfo-100-2022",
+      "label": "franceinfo — « 100 mesures phares » du programme 2017",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html",
+      "scope": "Décompte publié par franceinfo en mars 2022 sur un échantillon de 100 promesses extraites du programme officiel (parmi plus de 400). Méthodologie détaillée en bas de leur article.",
+      "counts": {
+        "tenu": 47,
+        "partiel": 28,
+        "non_tenu": 25
+      }
+    },
+    {
+      "id": "lui-president-macron-2017-2022",
+      "label": "Lui Président — inventaire des promesses Macron (2017-2022)",
+      "url": "https://www.luipresident.fr/emmanuel-macron/",
+      "scope": "Base utilisée par Les Décodeurs (Le Monde) : les étudiants de l’ESJ Lille ont évalué 398 promesses de campagne (chiffres affichés sur luipresident.fr, alimentant la visualisation « ~400 engagements » de l’article du 12 mars 2022). Ce n’est ni les 100 mesures franceinfo, ni les 100 lignes exportées ici.",
+      "counts": {
+        "tenu": 170,
+        "partiel": 70,
+        "non_tenu": 125,
+        "non_evalue": 33
+      }
+    }
+  ],
+  "globalReferences": [
+    {
+      "label": "Lui Président — promesses Macron 2017-2022 (398 suivies, données ESJ Lille)",
+      "url": "https://www.luipresident.fr/emmanuel-macron/"
+    },
+    {
+      "label": "Les Décodeurs (Le Monde) — « Emmanuel Macron a-t-il tenu ses 400 promesses de campagne ? » (mars 2022)",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2022/03/12/emmanuel-macron-a-t-il-tenu-ses-400-promesses-de-campagne_6117218_4355770.html"
+    },
+    {
+      "label": "franceinfo — 100 mesures phares du programme 2017 vérifiées",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+    },
+    {
+      "label": "LCP — « 2017-2022 : le Président a-t-il tenu les engagements du candidat ? »",
+      "url": "https://www.lcp.fr/actualites/2017-2022-le-president-a-t-il-tenu-les-engagements-du-candidat-106435"
+    },
+    {
+      "label": "Cour des comptes — « La situation et les perspectives des finances publiques » (juillet 2022, bilan période récente)",
+      "url": "https://www.ccomptes.fr/fr/publications/la-situation-et-les-perspectives-des-finances-publiques-13"
+    },
+    {
+      "label": "Cour des comptes — Rapport public annuel 2022",
+      "url": "https://www.ccomptes.fr/fr/publications/le-rapport-public-annuel-2022"
+    },
+    {
+      "label": "AFP Factuel — engagements de campagne sur le pouvoir d’achat (2017)",
+      "url": "https://factuel.afp.com/si-pendant-sa-campagne-emmanuel-macron-setait-bien-engage-sur-le-pouvoir-dachat"
+    },
+    {
+      "label": "Les Echos — « Quinquennat 2017-2022 : le bilan contrarié d’Emmanuel Macron »",
+      "url": "https://www.lesechos.fr/elections/presidentielle/quinquennat-2017-2022-le-bilan-contrarie-demmanuel-macron-1391326"
+    },
+    {
+      "label": "Le Figaro — bilan thématique (sécurité, emploi, éducation, écologie…), mars 2022",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/securite-emploi-education-ecologie-le-bilan-d-emmanuel-macron-passe-au-crible-20220306"
+    },
+    {
+      "label": "Radio France — dossier « Bilan de la présidence Macron » (archives, podcasts)",
+      "url": "https://www.radiofrance.fr/dossiers/bilan-presidence-macron"
+    }
+  ],
+  "items": [
+    {
+      "id": "is-25",
+      "theme": "Économie & fiscalité",
+      "promise": "Baisser l’impôt sur les sociétés (visée affichée vers 25 %).",
+      "status": "tenu",
+      "note": "Réduction progressive jusqu’au taux standard de 25 % pour les exercices ouverts à compter de 2022, dans le cadre des réformes engagées sur le quinquennat.",
+      "sources": [
+        {
+          "label": "Les Décodeurs (synthèse bilan 2022)",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2022/03/12/emmanuel-macron-a-t-il-tenu-ses-400-promesses-de-campagne_6117218_4355770.html"
+        },
+        {
+          "label": "Les Echos — bilan quinquennat",
+          "url": "https://www.lesechos.fr/elections/presidentielle/quinquennat-2017-2022-le-bilan-contrarie-demmanuel-macron-1391326"
+        }
+      ]
+    },
+    {
+      "id": "cotisations-salariales",
+      "theme": "Économie & social",
+      "promise": "Alléger les cotisations salariales (maladie et chômage) au profit d’une hausse de la CSG.",
+      "status": "tenu",
+      "note": "Mesure inscrite dans les lois de finances / sécurité sociale du quinquennat ; effet redistributif discuté selon les niveaux de revenus.",
+      "sources": [
+        {
+          "label": "franceinfo — mesures phares",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        },
+        {
+          "label": "Cour des comptes — contexte finances publiques (baisses de prélèvements)",
+          "url": "https://www.ccomptes.fr/fr/publications/la-situation-et-les-perspectives-des-finances-publiques-13"
+        }
+      ]
+    },
+    {
+      "id": "taxe-habitation",
+      "theme": "Fiscalité des ménages",
+      "promise": "Supprimer ou alléger fortement la taxe d’habitation pour la majorité des ménages.",
+      "status": "tenu",
+      "note": "Suppression progressive pour les résidences principales, étalée sur le quinquennat ; débats sur les compensations pour les collectivités.",
+      "sources": [
+        {
+          "label": "AFP Factuel — promesses pouvoir d’achat (taxe d’habitation citée)",
+          "url": "https://factuel.afp.com/si-pendant-sa-campagne-emmanuel-macron-setait-bien-engage-sur-le-pouvoir-dachat"
+        },
+        {
+          "label": "franceinfo — 100 mesures",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "isf-ifi",
+      "theme": "Fiscalité du patrimoine",
+      "promise": "Réformer l’ISF (maintien d’un impôt sur la fortune immobilière plutôt que sur l’ensemble du patrimoine financier).",
+      "status": "tenu",
+      "note": "Transformation en IFI ; mesure qualifiée de tenue dans les bilans de promesses, tout en étant controversée sur le plan redistributif et du financement des investissements.",
+      "sources": [
+        {
+          "label": "Les Echos — réformes fiscales du quinquennat",
+          "url": "https://www.lesechos.fr/elections/presidentielle/quinquennat-2017-2022-le-bilan-contrarie-demmanuel-macron-1391326"
+        },
+        {
+          "label": "Les Décodeurs",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2022/03/12/emmanuel-macron-a-t-il-tenu-ses-400-promesses-de-campagne_6117218_4355770.html"
+        }
+      ]
+    },
+    {
+      "id": "code-travail",
+      "theme": "Travail & emploi",
+      "promise": "Réformer le Code du travail par ordonnances (souplesse, négociation d’entreprise…).",
+      "status": "tenu",
+      "note": "Ordonnances de 2017 appliquées ; ce volet est souvent cité comme une réforme structurelle majeure du quinquennat.",
+      "sources": [
+        {
+          "label": "LCP — bilan thématique",
+          "url": "https://www.lcp.fr/actualites/2017-2022-le-president-a-t-il-tenu-les-engagements-du-candidat-106435"
+        },
+        {
+          "label": "Les Echos",
+          "url": "https://www.lesechos.fr/elections/presidentielle/quinquennat-2017-2022-le-bilan-contrarie-demmanuel-macron-1391326"
+        }
+      ]
+    },
+    {
+      "id": "apprentissage",
+      "theme": "Emploi & formation",
+      "promise": "Développer fortement l’apprentissage.",
+      "status": "tenu",
+      "note": "Hausse très marquée du nombre de contrats d’apprentissage sur la période, avec réforme des financements et de l’âge d’accès.",
+      "sources": [
+        {
+          "label": "LCP — bilan thématique",
+          "url": "https://www.lcp.fr/actualites/2017-2022-le-president-a-t-il-tenu-les-engagements-du-candidat-106435"
+        },
+        {
+          "label": "franceinfo",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "cp-ce1",
+      "theme": "Éducation",
+      "promise": "Dédoublement des classes de CP et CE1 en réseau prioritaire (dispositif « plus de maîtres que de classes »).",
+      "status": "tenu",
+      "note": "Mise en œuvre étalée sur le quinquennat dans les écoles concernées par la carte prioritaire.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        },
+        {
+          "label": "Le Figaro — thème éducation",
+          "url": "https://www.lefigaro.fr/elections/presidentielles/securite-emploi-education-ecologie-le-bilan-d-emmanuel-macron-passe-au-crible-20220306"
+        }
+      ]
+    },
+    {
+      "id": "police-effectifs",
+      "theme": "Sécurité",
+      "promise": "Renforcer les effectifs de police et de gendarmerie (objectifs chiffrés évoqués en campagne).",
+      "status": "partiel",
+      "note": "Des créations d’emplois et plans de recrutement ont été engagés ; le bilan chiffré exact et l’adéquation à l’objectif annoncé font l’objet de débats selon les mesures retenues.",
+      "sources": [
+        {
+          "label": "Le Figaro — bilan sécurité",
+          "url": "https://www.lefigaro.fr/elections/presidentielles/securite-emploi-education-ecologie-le-bilan-d-emmanuel-macron-passe-au-crible-20220306"
+        },
+        {
+          "label": "Les Décodeurs",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2022/03/12/emmanuel-macron-a-t-il-tenu-ses-400-promesses-de-campagne_6117218_4355770.html"
+        }
+      ]
+    },
+    {
+      "id": "pma",
+      "theme": "Santé & société",
+      "promise": "Ouvrir la PMA aux couples de femmes et aux femmes seules.",
+      "status": "tenu",
+      "note": "Loi bioéthique adoptée ; entrée en vigueur des dispositions sur les parcours de PMA pour toutes les femmes.",
+      "sources": [
+        {
+          "label": "Les Décodeurs",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2022/03/12/emmanuel-macron-a-t-il-tenu-ses-400-promesses-de-campagne_6117218_4355770.html"
+        },
+        {
+          "label": "LCP",
+          "url": "https://www.lcp.fr/actualites/2017-2022-le-president-a-t-il-tenu-les-engagements-du-candidat-106435"
+        }
+      ]
+    },
+    {
+      "id": "retraites-2017",
+      "theme": "Social",
+      "promise": "Réformer les retraites (uniformisation, points, fin des régimes spéciaux à terme…).",
+      "status": "partiel",
+      "note": "Projet lancé puis fortement contesté (grèves fin 2019 – début 2020) et suspendu avec la crise sanitaire ; réforme structurante non bouclée sur ce mandat.",
+      "sources": [
+        {
+          "label": "Les Décodeurs",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2022/03/12/emmanuel-macron-a-t-il-tenu-ses-400-promesses-de-campagne_6117218_4355770.html"
+        },
+        {
+          "label": "Les Echos",
+          "url": "https://www.lesechos.fr/elections/presidentielle/quinquennat-2017-2022-le-bilan-contrarie-demmanuel-macron-1391326"
+        }
+      ]
+    },
+    {
+      "id": "ecologie",
+      "theme": "Écologie",
+      "promise": "Faire de l’écologie une priorité (climat, biodiversité, transition).",
+      "status": "partiel",
+      "note": "Lois climat, Convention citoyenne pour le climat, mais bilan globalement jugé insuffisant par de nombreux observateurs par rapport aux objectifs affichés.",
+      "sources": [
+        {
+          "label": "Les Décodeurs — domaine écologie",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2022/03/12/emmanuel-macron-a-t-il-tenu-ses-400-promesses-de-campagne_6117218_4355770.html"
+        },
+        {
+          "label": "Le Figaro — thème écologie",
+          "url": "https://www.lefigaro.fr/elections/presidentielles/securite-emploi-education-ecologie-le-bilan-d-emmanuel-macron-passe-au-crible-20220306"
+        }
+      ]
+    },
+    {
+      "id": "convention-citoyenne-climat",
+      "theme": "Écologie & démocratie",
+      "promise": "Donner suite à la Convention citoyenne pour le climat (tirage au sort, propositions).",
+      "status": "partiel",
+      "note": "Une partie des propositions a été traduite en loi (loi Climat et résilience) ; de nombreux participants et ONG ont dénoncé l’abandon ou l’affaiblissement d’autres mesures.",
+      "sources": [
+        {
+          "label": "Les Décodeurs",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2022/03/12/emmanuel-macron-a-t-il-tenu-ses-400-promesses-de-campagne_6117218_4355770.html"
+        },
+        {
+          "label": "LCP",
+          "url": "https://www.lcp.fr/actualites/2017-2022-le-president-a-t-il-tenu-les-engagements-du-candidat-106435"
+        }
+      ]
+    },
+    {
+      "id": "defense-nato",
+      "theme": "Défense",
+      "promise": "Porter les dépenses de défense vers l’objectif de 2 % du PIB (cadre OTAN).",
+      "status": "tenu",
+      "note": "Trajectoire budgétaire de remontée des crédits de défense sur le quinquennat.",
+      "sources": [
+        {
+          "label": "LCP",
+          "url": "https://www.lcp.fr/actualites/2017-2022-le-president-a-t-il-tenu-les-engagements-du-candidat-106435"
+        },
+        {
+          "label": "Les Echos",
+          "url": "https://www.lesechos.fr/elections/presidentielle/quinquennat-2017-2022-le-bilan-contrarie-demmanuel-macron-1391326"
+        }
+      ]
+    },
+    {
+      "id": "chomage",
+      "theme": "Emploi",
+      "promise": "Réformer l’assurance-chômage et l’accompagnement des demandeurs d’emploi.",
+      "status": "tenu",
+      "note": "Plusieurs réformes (règles d’indemnisation, dégressivité, transformation de Pôle emploi) ; effets débattus. Le taux de chômage a baissé sur la période avant la crise Covid, avec une dynamique ensuite commentée par la presse économique.",
+      "sources": [
+        {
+          "label": "franceinfo",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        },
+        {
+          "label": "Les Echos — emploi",
+          "url": "https://www.lesechos.fr/elections/presidentielle/quinquennat-2017-2022-le-bilan-contrarie-demmanuel-macron-1391326"
+        }
+      ]
+    },
+    {
+      "id": "sncf",
+      "theme": "Transports",
+      "promise": "Réformer le ferroviaire / la SNCF (statut, dette, concurrence progressive…).",
+      "status": "tenu",
+      "note": "Loi d’orientation 2018 et réformes associées : fin du statut pour les nouveaux embauchés, ouverture à la concurrence des lignes, restructuration de la dette — bilan contesté par les syndicats, mais mesures législatives adoptées.",
+      "sources": [
+        {
+          "label": "Les Echos — réformes structurelles",
+          "url": "https://www.lesechos.fr/elections/presidentielle/quinquennat-2017-2022-le-bilan-contrarie-demmanuel-macron-1391326"
+        },
+        {
+          "label": "LCP",
+          "url": "https://www.lcp.fr/actualites/2017-2022-le-president-a-t-il-tenu-les-engagements-du-candidat-106435"
+        }
+      ]
+    },
+    {
+      "id": "moralisation",
+      "theme": "Vie publique",
+      "promise": "Renforcer la transparence et la moralisation de la vie publique (ex. cadre législatif post-affaires).",
+      "status": "tenu",
+      "note": "Plusieurs textes et dispositifs (interdiction de certains emplois familiaux, évolution du régime des frais de mandat, renforcement du contrôle…) ; les bilans journalistiques distinguent avancées et limites.",
+      "sources": [
+        {
+          "label": "franceinfo",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        },
+        {
+          "label": "Les Echos",
+          "url": "https://www.lesechos.fr/elections/presidentielle/quinquennat-2017-2022-le-bilan-contrarie-demmanuel-macron-1391326"
+        }
+      ]
+    },
+    {
+      "id": "finances-publiques",
+      "theme": "Finances publiques",
+      "promise": "Améliorer la trajectoire des finances publiques (solde structurel, maîtrise de la dépense…).",
+      "status": "partiel",
+      "note": "La Cour des comptes a souligné une dégradation ou un manque d’amélioration du solde structurel avant crise Covid, puis l’impact massif de la pandémie et des mesures d’urgence. L’écart entre objectifs affichés et résultats est au cœur de ses rapports de 2021–2022.",
+      "sources": [
+        {
+          "label": "Cour des comptes — finances publiques (juillet 2022)",
+          "url": "https://www.ccomptes.fr/fr/publications/la-situation-et-les-perspectives-des-finances-publiques-13"
+        },
+        {
+          "label": "Cour des comptes — rapport public annuel 2022",
+          "url": "https://www.ccomptes.fr/fr/publications/le-rapport-public-annuel-2022"
+        }
+      ]
+    },
+    {
+      "id": "gilets-jaunes-reponse",
+      "theme": "Cohésion sociale",
+      "promise": "Répondre aux crises de confiance et au pouvoir d’achat (contexte « gilets jaunes », mesures d’urgence).",
+      "status": "partiel",
+      "note": "Le quinquennat a été marqué par d’importantes mobilisations ; l’exécutif a déployé des mesures de pouvoir d’achat (ex. hausse du SMIC via prime d’activité, suppression TH, etc.) tout en étant critiqué sur la forme du dialogue. La Cour des comptes chiffre l’impact budgétaire de mesures post-crise des gilets jaunes.",
+      "sources": [
+        {
+          "label": "Cour des comptes — contexte mesures 2018-2019",
+          "url": "https://www.ccomptes.fr/fr/publications/la-situation-et-les-perspectives-des-finances-publiques-13"
+        },
+        {
+          "label": "Les Décodeurs — mobilisations et bilan global",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2022/03/12/emmanuel-macron-a-t-il-tenu-ses-400-promesses-de-campagne_6117218_4355770.html"
+        }
+      ]
+    },
+    {
+      "id": "hopital",
+      "theme": "Santé",
+      "promise": "Renforcer l’hôpital et la médecine de ville (investissements, attractivité des métiers).",
+      "status": "partiel",
+      "note": "Négociations Ségur de la santé (2020), plans d’investissement ; la crise Covid-19 a mis en lumière des tensions durables sur les ressources humaines et l’organisation hospitalière.",
+      "sources": [
+        {
+          "label": "LCP",
+          "url": "https://www.lcp.fr/actualites/2017-2022-le-president-a-t-il-tenu-les-engagements-du-candidat-106435"
+        },
+        {
+          "label": "franceinfo",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "theme": "Europe",
+      "promise": "Approfondir l’intégration européenne (défense, budget, relance).",
+      "status": "partiel",
+      "note": "Next Generation EU et coopérations renforcées pendant la pandémie ; certaines propositions très fédéralistes du discours de 2017 n’ont pas été réalisées dans la forme initiale.",
+      "sources": [
+        {
+          "label": "Les Décodeurs",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2022/03/12/emmanuel-macron-a-t-il-tenu-ses-400-promesses-de-campagne_6117218_4355770.html"
+        },
+        {
+          "label": "Les Echos",
+          "url": "https://www.lesechos.fr/elections/presidentielle/quinquennat-2017-2022-le-bilan-contrarie-demmanuel-macron-1391326"
+        }
+      ]
+    },
+    {
+      "id": "numerique",
+      "theme": "Services publics",
+      "promise": "Moderniser l’État et les services publics par le numérique.",
+      "status": "partiel",
+      "note": "Démarches en ligne, FranceConnect, dématérialisation ; critiques récurrentes sur la fracture numérique et certains projets SI publics.",
+      "sources": [
+        {
+          "label": "franceinfo",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        },
+        {
+          "label": "Les Décodeurs",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2022/03/12/emmanuel-macron-a-t-il-tenu-ses-400-promesses-de-campagne_6117218_4355770.html"
+        }
+      ]
+    },
+    {
+      "id": "rapport-senat-conseil",
+      "theme": "Transparence",
+      "promise": "Encadrer le recours aux cabinets de conseil par l’État (transparence, efficacité).",
+      "status": "partiel",
+      "note": "Le sujet a explosé en fin de quinquennat avec les travaux du Sénat sur les « cabinets de conseil » ; des évolutions législatives et réglementaires ont suivi, sans clore le débat sur l’ampleur et le contrôle des marchés.",
+      "sources": [
+        {
+          "label": "Sénat — rapport d’information (ex. mission sur les conseils en stratégie)",
+          "url": "https://www.senat.fr/rap/r21-555/r21-555_mono.html"
+        },
+        {
+          "label": "LCP — actualité de campagne 2022 liée au rapport",
+          "url": "https://www.lcp.fr/actualites/2017-2022-le-president-a-t-il-tenu-les-engagements-du-candidat-106435"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-fonctionnaires-120k",
+      "theme": "Fonction publique",
+      "promise": "Réduire de 120 000 le nombre d’emplois publics sur le quinquennat (50 000 à l’État, 70 000 en collectivités).",
+      "status": "non_tenu",
+      "note": "franceinfo classe cette promesse comme non tenue : objectifs revus à la baisse puis abandon au regard des crises sociale et sanitaire ; la presse économique confirme l’écart avec le chiffre initial.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        },
+        {
+          "label": "Les Décodeurs — bilan global",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2022/03/12/emmanuel-macron-a-t-il-tenu-ses-400-promesses-de-campagne_6117218_4355770.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-parlementaires-tiers",
+      "theme": "Vie politique",
+      "promise": "Réduire d’environ un tiers le nombre de députés et de sénateurs.",
+      "status": "non_tenu",
+      "note": "Inscrite dans des projets de loi pour un renouveau démocratique non adoptés ; franceinfo la qualifie de non tenue à l’échéance du mandat.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        },
+        {
+          "label": "Radio France — bilan présidence",
+          "url": "https://www.radiofrance.fr/dossiers/bilan-presidence-macron"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-eren",
+      "theme": "Environnement",
+      "promise": "Doubler d’ici à 2022 la capacité installée en éolien et en solaire photovoltaïque.",
+      "status": "non_tenu",
+      "note": "franceinfo : objectif loin d’être atteint pour l’éolien à fin 2021 ; le solaire proche du doublement mais la promesse globale est jugée non tenue.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-smu",
+      "theme": "Défense",
+      "promise": "Créer un service militaire obligatoire et universel d’un mois pour toute une classe d’âge.",
+      "status": "non_tenu",
+      "note": "Remplacé par un Service national universel (SNU) sur la base du volontariat et d’échéances floues ; franceinfo : non tenu par rapport à la promesse de campagne.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-asile-6mois",
+      "theme": "Immigration",
+      "promise": "Examiner les demandes d’asile en moins de six mois, recours compris.",
+      "status": "non_tenu",
+      "note": "Délais moyens bien supérieurs en pratique (Ofpra, CNDA) ; franceinfo classe la promesse comme non tenue.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-spip-40",
+      "theme": "Justice",
+      "promise": "Renforcer les SPIP pour viser une moyenne d’environ 40 personnes suivies par conseiller pénitentiaire d’insertion et de probation.",
+      "status": "non_tenu",
+      "note": "franceinfo : charge bien plus élevée en moyenne ; objectif revu par le ministère vers 60 personnes par agent.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-presse-trust",
+      "theme": "Médias & culture",
+      "promise": "Créer un nouveau statut de l’entreprise de presse (sur le modèle des trusts) pour garantir l’indépendance éditoriale.",
+      "status": "non_tenu",
+      "note": "Aucune refonte législative équivalente sur le quinquennat ; analyse franceinfo.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-erasmus-200k",
+      "theme": "Éducation",
+      "promise": "Faire partir jusqu’à 200 000 jeunes Français par an en Erasmus (objectif 2022).",
+      "status": "non_tenu",
+      "note": "franceinfo : chiffres de mobilités Erasmus+ nettement inférieurs à l’objectif, avec effet Covid en 2020.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-prisons-15k",
+      "theme": "Justice",
+      "promise": "Construire 15 000 places de prison supplémentaires sur le quinquennat.",
+      "status": "non_tenu",
+      "note": "franceinfo : le programme pénitentiaire étale la création nette sur dix ans ; l’objectif quinquennal n’est pas atteint.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-csm-constitution",
+      "theme": "Justice",
+      "promise": "Faire adopter la révision constitutionnelle sur le Conseil supérieur de la magistrature et le parquet.",
+      "status": "non_tenu",
+      "note": "Non inscrite dans la Constitution sur le mandat ; franceinfo : promesse non tenue.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-domiciliation-poste",
+      "theme": "Logement & précarité",
+      "promise": "Garantir un droit à la domiciliation pour les sans-abri via l’évolution de la mission de service public de La Poste.",
+      "status": "non_tenu",
+      "note": "franceinfo : les missions de La Poste n’ont pas été modifiées à cette fin ; d’autres dispositifs existaient déjà en dehors de La Poste.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-perturbateurs",
+      "theme": "Environnement & santé",
+      "promise": "Interdire rapidement les perturbateurs endocriniens dès lors qu’existe une alternative moins toxique reconnue.",
+      "status": "non_tenu",
+      "note": "franceinfo : essentiellement travaux de repérage et information, pas d’interdiction générale au sens de la promesse.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-pesticides-calendrier",
+      "theme": "Environnement & agriculture",
+      "promise": "Définir dans le cadre des États généraux de l’alimentation un calendrier d’élimination progressive des pesticides.",
+      "status": "non_tenu",
+      "note": "franceinfo souligne des reculs ou reports (glyphosate, néonicotinoïdes betterave) plutôt qu’une sortie planifiée au sens strict.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-chomage-7pct",
+      "theme": "Économie & emploi",
+      "promise": "Ramener le chômage à 7 % et créer 1,3 million d’emplois documentés sur le quinquennat.",
+      "status": "non_tenu",
+      "note": "franceinfo : proche sur le chômage en fin de période mais objectifs chiffrés d’emplois non pleinement atteints ; promesse classée non tenue.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        },
+        {
+          "label": "Les Echos — bilan économique",
+          "url": "https://www.lesechos.fr/elections/presidentielle/quinquennat-2017-2022-le-bilan-contrarie-demmanuel-macron-1391326"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-billets-outremer",
+      "theme": "Outre-mer",
+      "promise": "Porter à 200 000 par an le nombre de billets aidés pour la mobilité des ultramarins.",
+      "status": "non_tenu",
+      "note": "franceinfo : chiffres effectifs très inférieurs (ordre de grandeur 20 000 bénéficiaires sur la dernière année connue).",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-conge-maternite-unique",
+      "theme": "Égalité femmes-hommes",
+      "promise": "Créer un congé de maternité unique et aligné sur le régime le plus avantageux pour toutes les femmes, quel que soit leur statut.",
+      "status": "non_tenu",
+      "note": "franceinfo : durées rapprochées pour certaines non-salariées mais indemnisation toujours inégale selon les statuts.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-retraite-universelle",
+      "theme": "Retraites",
+      "promise": "Créer un système universel de retraites où « un euro cotisé donne les mêmes droits ».",
+      "status": "non_tenu",
+      "note": "Projet suspendu après la crise sanitaire ; franceinfo : promesse non tenue sur le mandat (distinct des réformes partielles de l’assurance-chômage ou des régimes existants).",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        },
+        {
+          "label": "Les Décodeurs",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2022/03/12/emmanuel-macron-a-t-il-tenu-ses-400-promesses-de-campagne_6117218_4355770.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-aesh-tous",
+      "theme": "Éducation & handicap",
+      "promise": "Donner accès à un(e) auxiliaire de vie scolaire à tout élève en situation de handicap qui en a besoin.",
+      "status": "non_tenu",
+      "note": "franceinfo : hausse des effectifs mais écart persistant avec les besoins déclarés par les associations.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-fibre-tout-territoire",
+      "theme": "Numérique",
+      "promise": "Couvrir en très haut débit l’ensemble du territoire d’ici la fin du quinquennat.",
+      "status": "non_tenu",
+      "note": "franceinfo : taux d’éligibilité élevé mais couverture intégrale non atteinte à l’échéance retenue par leurs vérifications.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-fusion-departements",
+      "theme": "Collectivités",
+      "promise": "Supprimer au moins un quart des départements lorsqu’ils peuvent être rapprochés d’une grande métropole.",
+      "status": "non_tenu",
+      "note": "Abandon des fusions annoncées (résistances locales) ; franceinfo : non tenue.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        },
+        {
+          "label": "Les Décodeurs",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2022/03/12/emmanuel-macron-a-t-il-tenu-ses-400-promesses-de-campagne_6117218_4355770.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-diesel-essence",
+      "theme": "Fiscalité & environnement",
+      "promise": "Aligner la fiscalité du diesel sur celle de l’essence pendant le quinquennat pour réduire la pollution aux particules fines.",
+      "status": "non_tenu",
+      "note": "franceinfo : rattrapage fiscal interrompu après la crise des gilets jaunes ; écart persistant en 2021.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-parite-partis",
+      "theme": "Vie politique",
+      "promise": "Obliger les formations politiques à respecter la parité dans la présentation de leurs candidats et moduler leur financement public en cas de déséquilibre.",
+      "status": "non_tenu",
+      "note": "franceinfo : pas de nouvelle loi spécifique sur le quinquennat au-delà du cadre existant depuis les années 2000.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-zep-debut-carriere",
+      "theme": "Éducation",
+      "promise": "Ne plus affecter de professeurs en zone d’éducation prioritaire pendant les trois premières années de carrière (hors choix motivé).",
+      "status": "non_tenu",
+      "note": "franceinfo : toujours des affectations de débutants en REP selon syndicats et terrain.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-creche-criteres",
+      "theme": "Petite enfance",
+      "promise": "Obliger les communes à publier en ligne les critères d’attribution des places en crèche et à coter les demandes.",
+      "status": "non_tenu",
+      "note": "franceinfo : guides et conventions mais pas d’obligation générale contraignante comme promis.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-nt-horaires-sp",
+      "theme": "Fonction publique",
+      "promise": "Élargir les horaires d’ouverture des services publics (certains le samedi et en soirée) pour les usagers salariés.",
+      "status": "non_tenu",
+      "note": "franceinfo : expérimentations limitées puis priorité à la continuité de service sous Covid plutôt qu’aux horaires décalés.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (non tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-assurance-chomage-tous",
+      "theme": "Économie & emploi",
+      "promise": "Permettre à tous les travailleurs (y compris indépendants) d’accéder à l’assurance-chômage.",
+      "status": "tenu",
+      "note": "franceinfo : loi « avenir professionnel » ; périmètre et conditions encore débattus mais promesse classée tenue dans leur barème.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        },
+        {
+          "label": "Les Décodeurs",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2022/03/12/emmanuel-macron-a-t-il-tenu-ses-400-promesses-de-campagne_6117218_4355770.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-droit-oubli",
+      "theme": "Santé",
+      "promise": "Renforcer le droit à l’oubli des malades (cancer, hépatite C) pour l’assurance-emprunt.",
+      "status": "tenu",
+      "note": "Texte adopté en 2022 ; délais et extensions discutés mais objectif principal jugé atteint par franceinfo.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-procedure-dematerialisee",
+      "theme": "Justice",
+      "promise": "Créer une procédure judiciaire dématérialisée pour les petits litiges de la vie quotidienne.",
+      "status": "tenu",
+      "note": "franceinfo : loi de programmation de la justice (2019), plafond relevé à 5 000 €.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-camera-pieton",
+      "theme": "Sécurité",
+      "promise": "Généraliser les caméras-piétons pour les contrôles d’identité.",
+      "status": "tenu",
+      "note": "franceinfo : déploiement massif annoncé puis chiffré en cours de mandat ; promesse tenue dans leur analyse.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-service-sanitaire",
+      "theme": "Santé & formation",
+      "promise": "Créer un service sanitaire de trois mois pour les étudiants en santé (prévention, dépendance…).",
+      "status": "tenu",
+      "note": "franceinfo : dispositif en place ; durée réelle plus courte (semaines) mais engagement tenu.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-individualisation-ir",
+      "theme": "Fiscalité",
+      "promise": "Permettre l’individualisation du taux de prélèvement à la source pour les couples.",
+      "status": "tenu",
+      "note": "franceinfo : mécanisme disponible depuis le prélèvement à la source.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-lutte-separatisme",
+      "theme": "Sécurité & religion",
+      "promise": "Combattre l’idéologie jihadiste (fermetures de lieux, dissolutions d’associations…).",
+      "status": "tenu",
+      "note": "franceinfo : fermetures et loi « séparatisme » ; bilan sociologique discuté.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-tribunal-judiciaire",
+      "theme": "Justice",
+      "promise": "Fusionner les tribunaux d’instance et de grande instance en tribunal judiciaire par département.",
+      "status": "tenu",
+      "note": "franceinfo : réforme effective au 1er janvier 2020.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-francais-b1",
+      "theme": "Intégration",
+      "promise": "Renforcer la formation linguistique des étrangers en situation régulière (visée niveau B1).",
+      "status": "tenu",
+      "note": "franceinfo : loi asile-immigration 2018 et hausse des heures de français.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-frontex",
+      "theme": "Europe & migration",
+      "promise": "Renforcer le contingent et les moyens de Frontex aux frontières extérieures de l’UE.",
+      "status": "tenu",
+      "note": "franceinfo : règlement européen et montée en puissance des effectifs au-delà de l’objectif initial.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-aah-900",
+      "theme": "Handicap",
+      "promise": "Revaloriser l’AAH au-delà de 900 € pour une personne seule.",
+      "status": "tenu",
+      "note": "franceinfo : revalorisation puis évolutions du mode de calcul pour les couples.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-cantines-50",
+      "theme": "Alimentation",
+      "promise": "Imposer aux cantines scolaires et restauration collective un fort quota de produits durables / bio.",
+      "status": "tenu",
+      "note": "franceinfo : décret Egalim complémentaire au 1er janvier 2022.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-ega",
+      "theme": "Agriculture",
+      "promise": "Organiser les États généraux de l’alimentation et en tirer une loi (Egalim).",
+      "status": "tenu",
+      "note": "franceinfo : consultation 2017 puis lois Egalim 1 et 2.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-pic",
+      "theme": "Emploi & formation",
+      "promise": "Investir massivement dans les compétences (PIC, Garantie jeunes / parcours jeunes…).",
+      "status": "tenu",
+      "note": "franceinfo : volumes de personnes formées au-delà des objectifs annoncés.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-fonds-culture",
+      "theme": "Culture",
+      "promise": "Créer un fonds d’investissement de 200 M€ pour les industries culturelles françaises.",
+      "status": "tenu",
+      "note": "franceinfo : annonce puis enveloppe légèrement supérieure (225 M€).",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-pass-culture",
+      "theme": "Culture",
+      "promise": "Généraliser le Pass culture pour les jeunes (montants et tranches d’âge réajustés).",
+      "status": "tenu",
+      "note": "franceinfo : dispositif étendu avec évolution des montants (300 € puis parcours scolaire).",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-prime-activite",
+      "theme": "Pouvoir d’achat",
+      "promise": "Augmenter fortement la prime d’activité pour les salariés au SMIC (ordre de +80 € / mois).",
+      "status": "tenu",
+      "note": "franceinfo : revalorisations successives, proche de la promesse pour le profil SMIC.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-islam-1905",
+      "theme": "Laïcité",
+      "promise": "Aider à restructurer l’islam de France (statut cultuel, financement des lieux…).",
+      "status": "tenu",
+      "note": "franceinfo : évolutions législatives (séparatisme) et instances (Forif) ; bilan qualitatif mitigé.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-outrage-sexiste",
+      "theme": "Égalité femmes-hommes",
+      "promise": "Durcir les sanctions contre le harcèlement sexiste dans l’espace public.",
+      "status": "tenu",
+      "note": "franceinfo : loi Schiappa, infraction « outrage sexiste ».",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-telephone-danger",
+      "theme": "Violences faites aux femmes",
+      "promise": "Accélérer la généralisation du téléphone grave danger.",
+      "status": "tenu",
+      "note": "franceinfo : hausse du nombre d’appareils ; généralisation encore incomplète.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-inclusion-numerique",
+      "theme": "Numérique",
+      "promise": "Lancer une stratégie d’inclusion numérique (accompagnement, formations, pass numérique…).",
+      "status": "tenu",
+      "note": "franceinfo : plans successifs et relance Covid.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-pilotage-chomage-etat",
+      "theme": "Emploi",
+      "promise": "Confier à l’État le pilotage du régime d’assurance-chômage (dernier mot en cas de blocage).",
+      "status": "tenu",
+      "note": "franceinfo : évolution après décret de carence et négociations ; reclassement ultérieur « tenu » dans leur grille.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-chomage-demission",
+      "theme": "Emploi",
+      "promise": "Ouvrir l’assurance-chômage aux démissionnaires dans des cas encadrés.",
+      "status": "tenu",
+      "note": "franceinfo : dispositif existant mais critères restrictifs et volumétrie faible.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-don-rtt",
+      "theme": "Vie en entreprise",
+      "promise": "Autoriser le don de RTT à un collègue aidant un proche handicapé ou dépendant.",
+      "status": "tenu",
+      "note": "franceinfo : loi 2018 puis extension au public.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-loi-hulot-hydro",
+      "theme": "Énergie",
+      "promise": "Interdire le gaz de schiste et ne plus délivrer de nouveaux permis d’exploration d’hydrocarbures.",
+      "status": "tenu",
+      "note": "franceinfo : loi « Hulot » ; exploitation existante jusqu’à échéances longues.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-renov-batiments-publics",
+      "theme": "Climat & bâtiments",
+      "promise": "Lancer un plan de rénovation énergétique des bâtiments publics (4 milliards d’euros).",
+      "status": "tenu",
+      "note": "franceinfo : enveloppe France Relance et suivi des projets.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-prime-casse",
+      "theme": "Mobilité",
+      "promise": "Instaurer ou généraliser une prime à la conversion automobile pour les véhicules polluants.",
+      "status": "tenu",
+      "note": "franceinfo : extension et pérennisation du dispositif.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-procedure-acceleree",
+      "theme": "Parlement",
+      "promise": "Faire de la procédure accélérée le mode d’examen par défaut des textes au Parlement.",
+      "status": "tenu",
+      "note": "franceinfo : usage massif de la procédure accélérée sous le quinquennat.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-bac",
+      "theme": "Éducation",
+      "promise": "Réformer le baccalauréat (spécialités, contrôle continu, épreuves finales).",
+      "status": "tenu",
+      "note": "franceinfo : réforme mise en œuvre pour les cohortes concernées.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-portables-ecole",
+      "theme": "Éducation",
+      "promise": "Interdire l’usage des téléphones portables à l’école primaire et au collège.",
+      "status": "tenu",
+      "note": "franceinfo : loi 2018 ; efficacité perçue diverse sur le terrain.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-stages-vacances",
+      "theme": "Éducation",
+      "promise": "Proposer des stages de remise à niveau en fin d’été (lutte contre la déperdition des savoirs).",
+      "status": "tenu",
+      "note": "franceinfo : dispositifs « réussite » et forte mobilisation post-Covid.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-fonction-publique-transfo",
+      "theme": "Fonction publique",
+      "promise": "Moderniser le statut des fonctionnaires et refondre les « grands corps » (administrateurs de l’État, INSP…).",
+      "status": "tenu",
+      "note": "franceinfo : loi de transformation et décrets 2021-2022.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-associations",
+      "theme": "Économie sociale",
+      "promise": "Réformer le droit des associations pour renforcer l’autonomie des structures subventionnées.",
+      "status": "tenu",
+      "note": "franceinfo : lois 2021 sur l’engagement associatif et la trésorerie.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-cse",
+      "theme": "Travail",
+      "promise": "Fusionner délégués du personnel, CE et CHSCT en un Comité social et économique (CSE).",
+      "status": "tenu",
+      "note": "franceinfo : échéance 2020 respectée pour la plupart des entreprises.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-t-rsi",
+      "theme": "Protection sociale",
+      "promise": "Rattacher les indépendants au régime général de Sécurité sociale (fin du RSI).",
+      "status": "tenu",
+      "note": "franceinfo : bascule effective au 1er janvier 2020 après phase SSI.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (tenue)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-p-zones-blanches",
+      "theme": "Numérique",
+      "promise": "Éliminer les « zones blanches » de couverture mobile.",
+      "status": "partiel",
+      "note": "franceinfo : progrès mais chantier incomplet et dépendant des engagements opérateurs.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (partielle)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-p-imams-france",
+      "theme": "Laïcité",
+      "promise": "Former des imams en France aux valeurs républicaines (diplômes universitaires…).",
+      "status": "partiel",
+      "note": "franceinfo : initiatives mais couverture limitée et divisions des représentations musulmanes.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (partielle)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-p-aspa",
+      "theme": "Retraites & pauvreté",
+      "promise": "Revaloriser le minimum vieillesse et réduire la pauvreté des personnes âgées.",
+      "status": "partiel",
+      "note": "franceinfo : montant ASPA au-delà de 900 € mais indicateurs de pauvreté des +65 ans dégradés avant Covid.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (partielle)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-p-index-egalite",
+      "theme": "Entreprises",
+      "promise": "Publier les noms des entreprises en retard sur l’égalité salariale femmes-hommes.",
+      "status": "partiel",
+      "note": "franceinfo : index obligatoire et public mais autre mécanisme que « liste de honte » initiale.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (partielle)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-p-gafam",
+      "theme": "Europe & numérique",
+      "promise": "Porter la régulation des GAFAM au niveau européen (agence, loyauté, fiscalité).",
+      "status": "partiel",
+      "note": "franceinfo : taxe services numériques et négociations DMA/DSA ; pas l’agence unique promise en 2017.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (partielle)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-p-demarches-ligne",
+      "theme": "Services publics",
+      "promise": "Rendre la quasi-totalité des démarches administratives accessibles en ligne d’ici 2022.",
+      "status": "partiel",
+      "note": "franceinfo : forte progression mais 100 % des « essentielles » non atteint selon leurs critères.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (partielle)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-p-msp",
+      "theme": "Santé des territoires",
+      "promise": "Doubler le nombre de maisons pluridisciplinaires de santé.",
+      "status": "partiel",
+      "note": "franceinfo : très proche du doublement ; incertitude sur le décompte final à l’échéance exacte.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (partielle)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-p-peines-courtes",
+      "theme": "Justice",
+      "promise": "Incarcérer les condamnés jusqu’à deux ans de prison ferme avant d’envisager un aménagement de peine.",
+      "status": "partiel",
+      "note": "franceinfo : loi 2019 mais seuils et exceptions différents de la promesse littérale.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (partielle)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-p-medecins-prevention",
+      "theme": "Santé",
+      "promise": "Revaloriser la médecine de ville pour la prévention (dont lutte contre le tabac).",
+      "status": "partiel",
+      "note": "franceinfo : quelques revalorisations ciblées ; consultation générique stable ; objectif « génération sans tabac » non acquis.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (partielle)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-p-deradicalisation",
+      "theme": "Sécurité",
+      "promise": "Créer des centres de déradicalisation fermés pour les personnes radicalisées.",
+      "status": "partiel",
+      "note": "franceinfo : échec du centre de Pontourny ; dispositifs en milieu ouvert (Pairs) à la place.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (partielle)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-p-logements-jeunes",
+      "theme": "Logement",
+      "promise": "Créer 30 000 logements « jeunes » dans le parc social (baux courts, sans caution…).",
+      "status": "partiel",
+      "note": "franceinfo : cadre légal tardif ; peu de chiffrage effectif à la fin du mandat.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (partielle)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-p-100-sante",
+      "theme": "Santé",
+      "promise": "100 % de prise en charge lunettes / dentaire / audio sans augmenter le coût des mutuelles.",
+      "status": "partiel",
+      "note": "franceinfo : réforme « 100 % santé » effective mais hausses de cotisations mutuelles signalées par les fédérations.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (partielle)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-p-micro-entreprise",
+      "theme": "Économie",
+      "promise": "Supprimer les charges la première année et doubler les plafonds de la micro-entreprise.",
+      "status": "partiel",
+      "note": "franceinfo : plafonds relevés ; charges allégées mais pas supprimées (Acre conditionnelle).",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (partielle)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-p-sportifs-haut-niveau",
+      "theme": "Sport",
+      "promise": "Que tous les sportifs de haut niveau soient en formation ou sous contrat avec une entreprise.",
+      "status": "partiel",
+      "note": "franceinfo : définition du « haut niveau » élargie ; objectif global non atteint sur la liste complète.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (partielle)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-p-cotisations-patronales-smic",
+      "theme": "Coût du travail",
+      "promise": "Atteindre zéro cotisation patronale « générale » au niveau du SMIC.",
+      "status": "partiel",
+      "note": "franceinfo : réductions importantes mais reste une cotisation résiduelle selon simulateurs.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (partielle)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-p-uni-recrutement",
+      "theme": "Enseignement supérieur",
+      "promise": "Permettre aux universités de recruter elles-mêmes leurs enseignants-chercheurs (hors CNU).",
+      "status": "partiel",
+      "note": "franceinfo : expérimentation jusqu’en 2024-2030, pas généralisation pleine.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (partielle)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-p-numerus-apertus",
+      "theme": "Santé",
+      "promise": "Supprimer le numerus clausus et ouvrir davantage les études de santé.",
+      "status": "partiel",
+      "note": "franceinfo : numerus apertus conditionné aux capacités d’accueil ; effet sur le nombre de médecins à long terme.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (partielle)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    },
+    {
+      "id": "fi-p-pret-agri",
+      "theme": "Agriculture",
+      "promise": "Instaurer un prêt d’honneur jusqu’à 50 000 € pour les jeunes agriculteurs (sans garantie).",
+      "status": "partiel",
+      "note": "franceinfo : dispositifs régionaux hétérogènes, montants souvent inférieurs au plafond national annoncé.",
+      "sources": [
+        {
+          "label": "franceinfo — 100 mesures (partielle)",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/bilan-macron-on-a-verifie-100-promesses-phares-programme-2017-combien-en-a-t-il-tenues.html"
+        }
+      ]
+    }
+  ]
+}

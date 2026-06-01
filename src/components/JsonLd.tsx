@@ -1,0 +1,96 @@
+import { SITE_NAME, SITE_URL } from "@/lib/site";
+
+interface BreadcrumbItem {
+  name: string;
+  path: string;
+}
+
+interface JsonLdProps {
+  path: string;
+  commune?: { nom: string; code: string; codeDepartement: string } | null;
+  breadcrumbs?: BreadcrumbItem[];
+}
+
+export default function JsonLd({ path, commune, breadcrumbs }: JsonLdProps) {
+  const normalizedPath = path.startsWith("/") ? path : `/${path}`;
+  const url = `${SITE_URL}${normalizedPath}`;
+
+  const websiteSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: SITE_NAME,
+    url: SITE_URL,
+    description:
+      "Résultats des élections présidentielles françaises par commune : scores, participation et parrainages. Open Data.",
+    inLanguage: "fr-FR",
+  };
+
+  const breadcrumbItems: { name: string; item: string }[] = [{ name: "Accueil", item: SITE_URL }];
+
+  if (breadcrumbs) {
+    breadcrumbs.forEach((b) => {
+      const p = b.path.startsWith("/") ? b.path : `/${b.path}`;
+      breadcrumbItems.push({ name: b.name, item: `${SITE_URL}${p}` });
+    });
+  } else if (commune) {
+    breadcrumbItems.push({ name: commune.nom, item: url });
+  }
+
+  const breadcrumbSchema =
+    breadcrumbItems.length > 1
+      ? {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          itemListElement: breadcrumbItems.map((item, i) => ({
+            "@type": "ListItem",
+            position: i + 1,
+            name: item.name,
+            item: item.item,
+          })),
+        }
+      : null;
+
+  if (!commune) {
+    return (
+      <>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }} />
+        {breadcrumbSchema && (
+          <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+        )}
+      </>
+    );
+  }
+
+  const datasetSchema = {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    name: `Élection présidentielle — ${commune.nom}`,
+    description: `Résultats électoraux au niveau de la commune de ${commune.nom} (département ${commune.codeDepartement}).`,
+    url,
+    license: "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+    creator: {
+      "@type": "Organization",
+      name: "Ministère de l'Intérieur",
+      url: "https://www.data.gouv.fr",
+    },
+    isBasedOn: "https://www.data.gouv.fr",
+    spatialCoverage: {
+      "@type": "Place",
+      name: commune.nom,
+      address: {
+        "@type": "PostalAddress",
+        addressCountry: "FR",
+      },
+    },
+  };
+
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(datasetSchema) }} />
+      {breadcrumbSchema && (
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+      )}
+    </>
+  );
+}

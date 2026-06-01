@@ -1,0 +1,2313 @@
+{
+  "meta": {
+    "electionYear": 2022,
+    "round": 1,
+    "electionDate": "2022-04-10",
+    "tableNote": "Intentions de vote 1er tour, sondages après publication de la liste officielle des candidats (7 mars 2022).",
+    "sources": [
+      {
+        "label": "Wikipédia (en) — Opinion polling for the 2022 French presidential election",
+        "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election",
+        "license": "Texte Wikipédia sous CC BY-SA ; vérifier les notices des instituts pour réutilisation commerciale."
+      },
+      {
+        "label": "Même page — sous-section « Official campaign » (tableau utilisé pour les chiffres bruts)",
+        "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election#Official_campaign"
+      }
+    ]
+  },
+  "candidates": [
+    {
+      "id": "macron",
+      "label": "Emmanuel Macron"
+    },
+    {
+      "id": "le_pen",
+      "label": "Marine Le Pen"
+    },
+    {
+      "id": "melenchon",
+      "label": "Jean-Luc Mélenchon"
+    },
+    {
+      "id": "zemmour",
+      "label": "Éric Zemmour"
+    },
+    {
+      "id": "pecresse",
+      "label": "Valérie Pécresse"
+    },
+    {
+      "id": "jadot",
+      "label": "Yannick Jadot"
+    },
+    {
+      "id": "hidalgo",
+      "label": "Anne Hidalgo"
+    },
+    {
+      "id": "dupont_aignan",
+      "label": "Nicolas Dupont-Aignan"
+    },
+    {
+      "id": "lassalle",
+      "label": "Jean Lassalle"
+    },
+    {
+      "id": "roussel",
+      "label": "Fabien Roussel"
+    },
+    {
+      "id": "poutou",
+      "label": "Philippe Poutou"
+    },
+    {
+      "id": "arthaud",
+      "label": "Nathalie Arthaud"
+    }
+  ],
+  "polls": [
+    {
+      "pollster": "Harris-Interactive",
+      "fieldworkEnd": "2022-03-07",
+      "sampleSize": 2394,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3.5,
+        "melenchon": 12.5,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 30.5,
+        "pecresse": 10.5,
+        "lassalle": 2,
+        "dupont_aignan": 1.5,
+        "le_pen": 18.5,
+        "zemmour": 12.5
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-07",
+      "sampleSize": 1672,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 5,
+        "melenchon": 10,
+        "hidalgo": 3,
+        "jadot": 5,
+        "macron": 30,
+        "pecresse": 13,
+        "lassalle": 2,
+        "dupont_aignan": 1,
+        "le_pen": 18,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-07",
+      "sampleSize": 1506,
+      "scores": {
+        "arthaud": 0,
+        "poutou": 0.5,
+        "roussel": 4,
+        "melenchon": 11.5,
+        "hidalgo": 2.5,
+        "jadot": 5,
+        "macron": 30,
+        "pecresse": 13,
+        "lassalle": 1.5,
+        "dupont_aignan": 1.5,
+        "le_pen": 18,
+        "zemmour": 12.5
+      }
+    },
+    {
+      "pollster": "Elabe",
+      "fieldworkEnd": "2022-03-08",
+      "sampleSize": 1580,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 3.5,
+        "melenchon": 13,
+        "hidalgo": 1.5,
+        "jadot": 5,
+        "macron": 33.5,
+        "pecresse": 10.5,
+        "lassalle": 2.5,
+        "dupont_aignan": 2.5,
+        "le_pen": 15,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-08",
+      "sampleSize": 1677,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 5,
+        "melenchon": 10,
+        "hidalgo": 3,
+        "jadot": 5,
+        "macron": 30,
+        "pecresse": 12,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 18,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-08",
+      "sampleSize": 1505,
+      "scores": {
+        "arthaud": 0,
+        "poutou": 0.5,
+        "roussel": 4,
+        "melenchon": 11.5,
+        "hidalgo": 2,
+        "jadot": 5.5,
+        "macron": 30.5,
+        "pecresse": 12,
+        "lassalle": 1,
+        "dupont_aignan": 1.5,
+        "le_pen": 18.5,
+        "zemmour": 12.5
+      }
+    },
+    {
+      "pollster": "BVA",
+      "fieldworkEnd": "2022-03-09",
+      "sampleSize": 977,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 12.5,
+        "hidalgo": 2.5,
+        "jadot": 5.5,
+        "macron": 30,
+        "pecresse": 12,
+        "lassalle": 1.5,
+        "dupont_aignan": 1.5,
+        "le_pen": 17,
+        "zemmour": 13
+      }
+    },
+    {
+      "pollster": "Kantar Archived 2022-03-14 at the Wayback Machine",
+      "fieldworkEnd": "2022-03-09",
+      "sampleSize": 1394,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 2,
+        "roussel": 3,
+        "melenchon": 11,
+        "hidalgo": 1.5,
+        "jadot": 4,
+        "macron": 31,
+        "pecresse": 12,
+        "lassalle": 2,
+        "dupont_aignan": 3,
+        "le_pen": 17,
+        "zemmour": 13
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-09",
+      "sampleSize": 1661,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 4,
+        "melenchon": 11,
+        "hidalgo": 3,
+        "jadot": 5,
+        "macron": 30,
+        "pecresse": 12,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 18,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-09",
+      "sampleSize": 1505,
+      "scores": {
+        "arthaud": 0,
+        "poutou": 0.5,
+        "roussel": 4,
+        "melenchon": 11,
+        "hidalgo": 2,
+        "jadot": 5.5,
+        "macron": 31.5,
+        "pecresse": 12,
+        "lassalle": 2,
+        "dupont_aignan": 1,
+        "le_pen": 18.5,
+        "zemmour": 12
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-10",
+      "sampleSize": 1638,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 4,
+        "melenchon": 11,
+        "hidalgo": 3,
+        "jadot": 5,
+        "macron": 30,
+        "pecresse": 12,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 18,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-10",
+      "sampleSize": 1505,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 0.5,
+        "roussel": 4,
+        "melenchon": 10.5,
+        "hidalgo": 2,
+        "jadot": 6,
+        "macron": 31,
+        "pecresse": 12.5,
+        "lassalle": 2,
+        "dupont_aignan": 1,
+        "le_pen": 18,
+        "zemmour": 12
+      }
+    },
+    {
+      "pollster": "Odoxa",
+      "fieldworkEnd": "2022-03-11",
+      "sampleSize": 2010,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 2,
+        "roussel": 3.5,
+        "melenchon": 11.5,
+        "hidalgo": 1.5,
+        "jadot": 4.5,
+        "macron": 29.5,
+        "pecresse": 11,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 19.5,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-11",
+      "sampleSize": 1639,
+      "scores": {
+        "arthaud": 0,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 12,
+        "hidalgo": 3,
+        "jadot": 6,
+        "macron": 30,
+        "pecresse": 12,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 17,
+        "zemmour": 12
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-11",
+      "sampleSize": 1505,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 0.5,
+        "roussel": 4.5,
+        "melenchon": 10.5,
+        "hidalgo": 2,
+        "jadot": 6,
+        "macron": 31,
+        "pecresse": 12,
+        "lassalle": 2,
+        "dupont_aignan": 1,
+        "le_pen": 17.5,
+        "zemmour": 12.5
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-03-12",
+      "sampleSize": 1653,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 3,
+        "melenchon": 12,
+        "hidalgo": 2.5,
+        "jadot": 6.5,
+        "macron": 30.5,
+        "pecresse": 11,
+        "lassalle": 1.5,
+        "dupont_aignan": 1.5,
+        "le_pen": 16,
+        "zemmour": 13.5
+      }
+    },
+    {
+      "pollster": "Harris-Interactive",
+      "fieldworkEnd": "2022-03-14",
+      "sampleSize": 2390,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 13.5,
+        "hidalgo": 2.5,
+        "jadot": 5,
+        "macron": 30,
+        "pecresse": 10.5,
+        "lassalle": 2,
+        "dupont_aignan": 1.5,
+        "le_pen": 19.5,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-14",
+      "sampleSize": 1688,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 4,
+        "melenchon": 11,
+        "hidalgo": 3,
+        "jadot": 6,
+        "macron": 30,
+        "pecresse": 11,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 18,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Ipsos",
+      "fieldworkEnd": "2022-03-14",
+      "sampleSize": 13749,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 4,
+        "melenchon": 12,
+        "hidalgo": 2.5,
+        "jadot": 7,
+        "macron": 29,
+        "pecresse": 10.5,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 16,
+        "zemmour": 13
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-03-14",
+      "sampleSize": 1651,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 3.5,
+        "melenchon": 11.5,
+        "hidalgo": 2.5,
+        "jadot": 6.5,
+        "macron": 30,
+        "pecresse": 11,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 16,
+        "zemmour": 13
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-14",
+      "sampleSize": 1507,
+      "scores": {
+        "arthaud": 0,
+        "poutou": 1,
+        "roussel": 4.5,
+        "melenchon": 11.5,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 31,
+        "pecresse": 11,
+        "lassalle": 2,
+        "dupont_aignan": 1,
+        "le_pen": 18,
+        "zemmour": 13
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-15",
+      "sampleSize": 1644,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 4,
+        "melenchon": 11,
+        "hidalgo": 3,
+        "jadot": 6,
+        "macron": 30,
+        "pecresse": 11,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 18,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-03-15",
+      "sampleSize": 1651,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 4,
+        "melenchon": 11,
+        "hidalgo": 2.5,
+        "jadot": 6,
+        "macron": 30,
+        "pecresse": 11,
+        "lassalle": 2.5,
+        "dupont_aignan": 2.5,
+        "le_pen": 15.5,
+        "zemmour": 13
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-15",
+      "sampleSize": 1506,
+      "scores": {
+        "arthaud": 0,
+        "poutou": 1,
+        "roussel": 4.5,
+        "melenchon": 12,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 31,
+        "pecresse": 11,
+        "lassalle": 2,
+        "dupont_aignan": 1,
+        "le_pen": 18,
+        "zemmour": 12.5
+      }
+    },
+    {
+      "pollster": "OpinionWay",
+      "fieldworkEnd": "2022-03-16",
+      "sampleSize": 1032,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 4,
+        "melenchon": 11,
+        "hidalgo": 2,
+        "jadot": 6,
+        "macron": 29,
+        "pecresse": 11,
+        "lassalle": 2,
+        "dupont_aignan": 3,
+        "le_pen": 18,
+        "zemmour": 12
+      }
+    },
+    {
+      "pollster": "BVA",
+      "fieldworkEnd": "2022-03-16",
+      "sampleSize": 1505,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 0.5,
+        "roussel": 3.5,
+        "melenchon": 13,
+        "hidalgo": 2.5,
+        "jadot": 5.5,
+        "macron": 30,
+        "pecresse": 10,
+        "lassalle": 1.5,
+        "dupont_aignan": 2,
+        "le_pen": 18,
+        "zemmour": 13
+      }
+    },
+    {
+      "pollster": "Elabe",
+      "fieldworkEnd": "2022-03-16",
+      "sampleSize": 1580,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3.5,
+        "melenchon": 14,
+        "hidalgo": 1.5,
+        "jadot": 5,
+        "macron": 31,
+        "pecresse": 11.5,
+        "lassalle": 2,
+        "dupont_aignan": 1.5,
+        "le_pen": 18,
+        "zemmour": 10.5
+      }
+    },
+    {
+      "pollster": "Cluster17",
+      "fieldworkEnd": "2022-03-16",
+      "sampleSize": 1945,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 3.5,
+        "melenchon": 14,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 29.5,
+        "pecresse": 10.5,
+        "lassalle": 3,
+        "dupont_aignan": 2.5,
+        "le_pen": 16,
+        "zemmour": 12
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-16",
+      "sampleSize": 1597,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 4,
+        "melenchon": 12,
+        "hidalgo": 3,
+        "jadot": 6,
+        "macron": 29,
+        "pecresse": 11,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 17,
+        "zemmour": 12
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-03-16",
+      "sampleSize": 1651,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 4,
+        "melenchon": 11,
+        "hidalgo": 2.5,
+        "jadot": 6.5,
+        "macron": 31,
+        "pecresse": 10.5,
+        "lassalle": 2.5,
+        "dupont_aignan": 2,
+        "le_pen": 16,
+        "zemmour": 12
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-16",
+      "sampleSize": 1506,
+      "scores": {
+        "arthaud": 0,
+        "poutou": 0.5,
+        "roussel": 4.5,
+        "melenchon": 12,
+        "hidalgo": 2,
+        "jadot": 5.5,
+        "macron": 30,
+        "pecresse": 11,
+        "lassalle": 2.5,
+        "dupont_aignan": 1,
+        "le_pen": 18,
+        "zemmour": 13
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-17",
+      "sampleSize": 1550,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 4,
+        "melenchon": 12,
+        "hidalgo": 3,
+        "jadot": 6,
+        "macron": 29,
+        "pecresse": 12,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 17,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-03-17",
+      "sampleSize": 1650,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 3.5,
+        "melenchon": 12,
+        "hidalgo": 2.5,
+        "jadot": 6,
+        "macron": 31,
+        "pecresse": 11,
+        "lassalle": 2.5,
+        "dupont_aignan": 2,
+        "le_pen": 15.5,
+        "zemmour": 12
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-17",
+      "sampleSize": 1506,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 0.5,
+        "roussel": 4.5,
+        "melenchon": 12.5,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 30,
+        "pecresse": 10.5,
+        "lassalle": 2.5,
+        "dupont_aignan": 1.5,
+        "le_pen": 17.5,
+        "zemmour": 13
+      }
+    },
+    {
+      "pollster": "Ifop",
+      "fieldworkEnd": "2022-03-18",
+      "sampleSize": 1359,
+      "scores": {
+        "arthaud": 0,
+        "poutou": 0.5,
+        "roussel": 4,
+        "melenchon": 13,
+        "hidalgo": 2,
+        "jadot": 5.5,
+        "macron": 29.5,
+        "pecresse": 11,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 18.5,
+        "zemmour": 12
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-18",
+      "sampleSize": 1542,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 4,
+        "melenchon": 13,
+        "hidalgo": 3,
+        "jadot": 5,
+        "macron": 29,
+        "pecresse": 12,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 17,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-03-18",
+      "sampleSize": 1684,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 3.5,
+        "melenchon": 12,
+        "hidalgo": 2.5,
+        "jadot": 6,
+        "macron": 31,
+        "pecresse": 11,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 15.5,
+        "zemmour": 11.5
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-18",
+      "sampleSize": 1507,
+      "scores": {
+        "arthaud": 0,
+        "poutou": 0.5,
+        "roussel": 4.5,
+        "melenchon": 13.5,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 29,
+        "pecresse": 11,
+        "lassalle": 2.5,
+        "dupont_aignan": 1.5,
+        "le_pen": 17.5,
+        "zemmour": 13
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-03-19",
+      "sampleSize": 1723,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3.5,
+        "melenchon": 13,
+        "hidalgo": 3,
+        "jadot": 6,
+        "macron": 30.5,
+        "pecresse": 10,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 16.5,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "OpinionWay",
+      "fieldworkEnd": "2022-03-20",
+      "sampleSize": 1092,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 4,
+        "melenchon": 13,
+        "hidalgo": 3,
+        "jadot": 5,
+        "macron": 29,
+        "pecresse": 13,
+        "lassalle": 3,
+        "dupont_aignan": 1,
+        "le_pen": 17,
+        "zemmour": 10
+      }
+    },
+    {
+      "pollster": "Cluster17",
+      "fieldworkEnd": "2022-03-20",
+      "sampleSize": 2527,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 3.5,
+        "melenchon": 14.5,
+        "hidalgo": 1.5,
+        "jadot": 5.5,
+        "macron": 28,
+        "pecresse": 10.5,
+        "lassalle": 3,
+        "dupont_aignan": 2.5,
+        "le_pen": 16.5,
+        "zemmour": 12.5
+      }
+    },
+    {
+      "pollster": "Elabe",
+      "fieldworkEnd": "2022-03-21",
+      "sampleSize": 1551,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 3.5,
+        "melenchon": 15,
+        "hidalgo": 1.5,
+        "jadot": 4.5,
+        "macron": 27.5,
+        "pecresse": 10,
+        "lassalle": 3,
+        "dupont_aignan": 3,
+        "le_pen": 20,
+        "zemmour": 10
+      }
+    },
+    {
+      "pollster": "Harris-Interactive",
+      "fieldworkEnd": "2022-03-21",
+      "sampleSize": 2344,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 14,
+        "hidalgo": 2.5,
+        "jadot": 5,
+        "macron": 29.5,
+        "pecresse": 10,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 19.5,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-21",
+      "sampleSize": 1636,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 4,
+        "melenchon": 13,
+        "hidalgo": 3,
+        "jadot": 5,
+        "macron": 29,
+        "pecresse": 13,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 18,
+        "zemmour": 9
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-03-21",
+      "sampleSize": 1748,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3.5,
+        "melenchon": 13,
+        "hidalgo": 3,
+        "jadot": 6.5,
+        "macron": 30.5,
+        "pecresse": 10,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 17,
+        "zemmour": 10
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-21",
+      "sampleSize": 1508,
+      "scores": {
+        "arthaud": 0,
+        "poutou": 0.5,
+        "roussel": 4,
+        "melenchon": 14,
+        "hidalgo": 2,
+        "jadot": 5.5,
+        "macron": 28,
+        "pecresse": 10.5,
+        "lassalle": 3,
+        "dupont_aignan": 1.5,
+        "le_pen": 18.5,
+        "zemmour": 12.5
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-22",
+      "sampleSize": 1626,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 2,
+        "roussel": 3,
+        "melenchon": 14,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 29,
+        "pecresse": 12,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 19,
+        "zemmour": 9
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-03-22",
+      "sampleSize": 1741,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 4,
+        "melenchon": 13,
+        "hidalgo": 2.5,
+        "jadot": 7,
+        "macron": 29.5,
+        "pecresse": 9.5,
+        "lassalle": 2.5,
+        "dupont_aignan": 1.5,
+        "le_pen": 17.5,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-22",
+      "sampleSize": 1506,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 0.5,
+        "roussel": 4,
+        "melenchon": 13.5,
+        "hidalgo": 2,
+        "jadot": 5.5,
+        "macron": 28,
+        "pecresse": 10.5,
+        "lassalle": 2.5,
+        "dupont_aignan": 1,
+        "le_pen": 19.5,
+        "zemmour": 12.5
+      }
+    },
+    {
+      "pollster": "BVA",
+      "fieldworkEnd": "2022-03-23",
+      "sampleSize": 958,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 3,
+        "melenchon": 14.5,
+        "hidalgo": 2,
+        "jadot": 6,
+        "macron": 28,
+        "pecresse": 10.5,
+        "lassalle": 2.5,
+        "dupont_aignan": 1.5,
+        "le_pen": 19,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Kantar Archived 2022-03-29 at the Wayback Machine",
+      "fieldworkEnd": "2022-03-23",
+      "sampleSize": 1388,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 14,
+        "hidalgo": 2,
+        "jadot": 4.5,
+        "macron": 29,
+        "pecresse": 10,
+        "lassalle": 2,
+        "dupont_aignan": 2.5,
+        "le_pen": 20,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-23",
+      "sampleSize": 1614,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 2,
+        "roussel": 3,
+        "melenchon": 14,
+        "hidalgo": 2,
+        "jadot": 6,
+        "macron": 28,
+        "pecresse": 11,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 20,
+        "zemmour": 9
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-03-23",
+      "sampleSize": 1721,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 4,
+        "melenchon": 12.5,
+        "hidalgo": 2,
+        "jadot": 7,
+        "macron": 29.5,
+        "pecresse": 9.5,
+        "lassalle": 2.5,
+        "dupont_aignan": 1.5,
+        "le_pen": 18.5,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-23",
+      "sampleSize": 1507,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 0.5,
+        "roussel": 3.5,
+        "melenchon": 14,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 28,
+        "pecresse": 11,
+        "lassalle": 2.5,
+        "dupont_aignan": 1,
+        "le_pen": 20,
+        "zemmour": 12
+      }
+    },
+    {
+      "pollster": "Cluster17",
+      "fieldworkEnd": "2022-03-24",
+      "sampleSize": 2353,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 4,
+        "melenchon": 14.5,
+        "hidalgo": 1.5,
+        "jadot": 5,
+        "macron": 27,
+        "pecresse": 11,
+        "lassalle": 3,
+        "dupont_aignan": 2.5,
+        "le_pen": 17,
+        "zemmour": 12.5
+      }
+    },
+    {
+      "pollster": "Ipsos",
+      "fieldworkEnd": "2022-03-24",
+      "sampleSize": 13269,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 3.5,
+        "melenchon": 14,
+        "hidalgo": 2,
+        "jadot": 7,
+        "macron": 28,
+        "pecresse": 10,
+        "lassalle": 2.5,
+        "dupont_aignan": 2,
+        "le_pen": 17.5,
+        "zemmour": 11.5
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-24",
+      "sampleSize": 1619,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 4,
+        "melenchon": 14,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 28,
+        "pecresse": 12,
+        "lassalle": 3,
+        "dupont_aignan": 1,
+        "le_pen": 20,
+        "zemmour": 9
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-03-24",
+      "sampleSize": 1724,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 4,
+        "melenchon": 12.5,
+        "hidalgo": 2,
+        "jadot": 6.5,
+        "macron": 29.5,
+        "pecresse": 10,
+        "lassalle": 2.5,
+        "dupont_aignan": 2,
+        "le_pen": 19,
+        "zemmour": 10.5
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-24",
+      "sampleSize": 1505,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 0.5,
+        "roussel": 3.5,
+        "melenchon": 14,
+        "hidalgo": 2,
+        "jadot": 4.5,
+        "macron": 28.5,
+        "pecresse": 11.5,
+        "lassalle": 2,
+        "dupont_aignan": 1.5,
+        "le_pen": 20,
+        "zemmour": 11.5
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-25",
+      "sampleSize": 1636,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 4,
+        "melenchon": 13,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 27,
+        "pecresse": 12,
+        "lassalle": 3,
+        "dupont_aignan": 1,
+        "le_pen": 21,
+        "zemmour": 10
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-03-25",
+      "sampleSize": 1718,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3.5,
+        "melenchon": 13.5,
+        "hidalgo": 2.5,
+        "jadot": 6,
+        "macron": 29,
+        "pecresse": 10,
+        "lassalle": 2.5,
+        "dupont_aignan": 2.5,
+        "le_pen": 18.5,
+        "zemmour": 10.5
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-25",
+      "sampleSize": 1504,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 0.5,
+        "roussel": 3.5,
+        "melenchon": 14,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 28,
+        "pecresse": 11.5,
+        "lassalle": 2,
+        "dupont_aignan": 1.5,
+        "le_pen": 20.5,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-03-26",
+      "sampleSize": 1726,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3.5,
+        "melenchon": 14.5,
+        "hidalgo": 2.5,
+        "jadot": 6,
+        "macron": 28.5,
+        "pecresse": 10,
+        "lassalle": 2.5,
+        "dupont_aignan": 2.5,
+        "le_pen": 17.5,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "OpinionWay",
+      "fieldworkEnd": "2022-03-27",
+      "sampleSize": 1072,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 4,
+        "melenchon": 14,
+        "hidalgo": 2,
+        "jadot": 6,
+        "macron": 27,
+        "pecresse": 10,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 20,
+        "zemmour": 10
+      }
+    },
+    {
+      "pollster": "Cluster17",
+      "fieldworkEnd": "2022-03-27",
+      "sampleSize": 2578,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1.5,
+        "roussel": 3,
+        "melenchon": 15,
+        "hidalgo": 2,
+        "jadot": 5.5,
+        "macron": 27,
+        "pecresse": 10,
+        "lassalle": 3,
+        "dupont_aignan": 2.5,
+        "le_pen": 17,
+        "zemmour": 12.5
+      }
+    },
+    {
+      "pollster": "Harris-Interactive",
+      "fieldworkEnd": "2022-03-28",
+      "sampleSize": 2384,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 15,
+        "hidalgo": 2.5,
+        "jadot": 5,
+        "macron": 28.5,
+        "pecresse": 9.5,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 21,
+        "zemmour": 10
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-28",
+      "sampleSize": 1627,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 14,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 28,
+        "pecresse": 11,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 20,
+        "zemmour": 10
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-28",
+      "sampleSize": 1501,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 0.5,
+        "roussel": 3.5,
+        "melenchon": 14,
+        "hidalgo": 2.5,
+        "jadot": 5,
+        "macron": 28,
+        "pecresse": 11,
+        "lassalle": 1.5,
+        "dupont_aignan": 1.5,
+        "le_pen": 21,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-03-28",
+      "sampleSize": 1723,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3.5,
+        "melenchon": 15.5,
+        "hidalgo": 2,
+        "jadot": 6,
+        "macron": 27.5,
+        "pecresse": 10,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 18.5,
+        "zemmour": 11.5
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-29",
+      "sampleSize": 1617,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 15,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 28,
+        "pecresse": 11,
+        "lassalle": 3,
+        "dupont_aignan": 1,
+        "le_pen": 20,
+        "zemmour": 10
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-03-29",
+      "sampleSize": 1738,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 3.5,
+        "melenchon": 15,
+        "hidalgo": 2,
+        "jadot": 6,
+        "macron": 27,
+        "pecresse": 9,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 19.5,
+        "zemmour": 12
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-29",
+      "sampleSize": 2004,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3.5,
+        "melenchon": 14.5,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 27.5,
+        "pecresse": 10.5,
+        "lassalle": 2,
+        "dupont_aignan": 1.5,
+        "le_pen": 21,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Elabe",
+      "fieldworkEnd": "2022-03-30",
+      "sampleSize": 1531,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 2.5,
+        "melenchon": 15.5,
+        "hidalgo": 2,
+        "jadot": 4,
+        "macron": 28,
+        "pecresse": 9.5,
+        "lassalle": 2.5,
+        "dupont_aignan": 2.5,
+        "le_pen": 21,
+        "zemmour": 10.5
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-30",
+      "sampleSize": 1633,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 15,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 28,
+        "pecresse": 11,
+        "lassalle": 3,
+        "dupont_aignan": 1,
+        "le_pen": 20,
+        "zemmour": 10
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-03-30",
+      "sampleSize": 1728,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 3,
+        "melenchon": 15.5,
+        "hidalgo": 1.5,
+        "jadot": 6,
+        "macron": 27,
+        "pecresse": 9,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 20.5,
+        "zemmour": 11.5
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-30",
+      "sampleSize": 2494,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 0.5,
+        "roussel": 4,
+        "melenchon": 15,
+        "hidalgo": 2,
+        "jadot": 4.5,
+        "macron": 28,
+        "pecresse": 10.5,
+        "lassalle": 1.5,
+        "dupont_aignan": 1.5,
+        "le_pen": 21.5,
+        "zemmour": 10.5
+      }
+    },
+    {
+      "pollster": "BVA",
+      "fieldworkEnd": "2022-03-31",
+      "sampleSize": 1502,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 3.5,
+        "melenchon": 15.5,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 27,
+        "pecresse": 9.5,
+        "lassalle": 2.5,
+        "dupont_aignan": 2.5,
+        "le_pen": 21,
+        "zemmour": 9.5
+      }
+    },
+    {
+      "pollster": "OpinionWay",
+      "fieldworkEnd": "2022-03-31",
+      "sampleSize": 1044,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 4,
+        "melenchon": 15,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 27,
+        "pecresse": 10,
+        "lassalle": 2,
+        "dupont_aignan": 3,
+        "le_pen": 21,
+        "zemmour": 10
+      }
+    },
+    {
+      "pollster": "Cluster17",
+      "fieldworkEnd": "2022-03-31",
+      "sampleSize": 2515,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 16,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 27,
+        "pecresse": 10,
+        "lassalle": 2.5,
+        "dupont_aignan": 3,
+        "le_pen": 18,
+        "zemmour": 12
+      }
+    },
+    {
+      "pollster": "YouGov",
+      "fieldworkEnd": "2022-03-31",
+      "sampleSize": 1434,
+      "scores": {
+        "arthaud": 0,
+        "poutou": 1,
+        "roussel": 2,
+        "melenchon": 15,
+        "hidalgo": 1,
+        "jadot": 6,
+        "macron": 27,
+        "pecresse": 8,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 25,
+        "zemmour": 9
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-03-31",
+      "sampleSize": 1562,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 15,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 28,
+        "pecresse": 10,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 20,
+        "zemmour": 10
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-03-31",
+      "sampleSize": 1728,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 3,
+        "melenchon": 15.5,
+        "hidalgo": 2,
+        "jadot": 6,
+        "macron": 27,
+        "pecresse": 9,
+        "lassalle": 2.5,
+        "dupont_aignan": 1.5,
+        "le_pen": 20,
+        "zemmour": 11.5
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-03-31",
+      "sampleSize": 2995,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 0.5,
+        "roussel": 4,
+        "melenchon": 15.5,
+        "hidalgo": 1.5,
+        "jadot": 4.5,
+        "macron": 28,
+        "pecresse": 10,
+        "lassalle": 2,
+        "dupont_aignan": 1.5,
+        "le_pen": 21,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Ifop",
+      "fieldworkEnd": "2022-04-01",
+      "sampleSize": 1405,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3.5,
+        "melenchon": 15,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 27,
+        "pecresse": 9,
+        "lassalle": 2.5,
+        "dupont_aignan": 2,
+        "le_pen": 22,
+        "zemmour": 10.5
+      }
+    },
+    {
+      "pollster": "Elabe",
+      "fieldworkEnd": "2022-04-01",
+      "sampleSize": 1377,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 3.5,
+        "melenchon": 15,
+        "hidalgo": 1.5,
+        "jadot": 4.5,
+        "macron": 28.5,
+        "pecresse": 8.5,
+        "lassalle": 2.5,
+        "dupont_aignan": 2.5,
+        "le_pen": 22,
+        "zemmour": 9.5
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-04-01",
+      "sampleSize": 1576,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 15,
+        "hidalgo": 3,
+        "jadot": 5,
+        "macron": 28,
+        "pecresse": 9,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 20,
+        "zemmour": 10
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-04-01",
+      "sampleSize": 1708,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 16,
+        "hidalgo": 2,
+        "jadot": 6.5,
+        "macron": 26.5,
+        "pecresse": 9.5,
+        "lassalle": 2.5,
+        "dupont_aignan": 1.5,
+        "le_pen": 20,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-04-01",
+      "sampleSize": 2994,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3.5,
+        "melenchon": 15,
+        "hidalgo": 1.5,
+        "jadot": 4.5,
+        "macron": 28,
+        "pecresse": 9.5,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 21.5,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-04-02",
+      "sampleSize": 1963,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 3,
+        "melenchon": 15.5,
+        "hidalgo": 2,
+        "jadot": 6,
+        "macron": 26,
+        "pecresse": 9.5,
+        "lassalle": 2.5,
+        "dupont_aignan": 1.5,
+        "le_pen": 21,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "OpinionWay",
+      "fieldworkEnd": "2022-04-03",
+      "sampleSize": 1091,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 4,
+        "melenchon": 14,
+        "hidalgo": 2,
+        "jadot": 6,
+        "macron": 27,
+        "pecresse": 10,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 22,
+        "zemmour": 9
+      }
+    },
+    {
+      "pollster": "Ipsos",
+      "fieldworkEnd": "2022-04-04",
+      "sampleSize": 12600,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3.5,
+        "melenchon": 16,
+        "hidalgo": 2,
+        "jadot": 6,
+        "macron": 26.5,
+        "pecresse": 8.5,
+        "lassalle": 2.5,
+        "dupont_aignan": 2,
+        "le_pen": 21.5,
+        "zemmour": 10
+      }
+    },
+    {
+      "pollster": "Cluster17",
+      "fieldworkEnd": "2022-04-04",
+      "sampleSize": 2793,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 2.5,
+        "melenchon": 17,
+        "hidalgo": 2,
+        "jadot": 4,
+        "macron": 26,
+        "pecresse": 10,
+        "lassalle": 3,
+        "dupont_aignan": 3,
+        "le_pen": 20,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Harris-Interactive",
+      "fieldworkEnd": "2022-04-04",
+      "sampleSize": 2531,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 2.5,
+        "melenchon": 17,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 26.5,
+        "pecresse": 9.5,
+        "lassalle": 2,
+        "dupont_aignan": 1.5,
+        "le_pen": 23,
+        "zemmour": 9.5
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-04-04",
+      "sampleSize": 1666,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 14,
+        "hidalgo": 2,
+        "jadot": 6,
+        "macron": 28,
+        "pecresse": 9,
+        "lassalle": 3,
+        "dupont_aignan": 3,
+        "le_pen": 22,
+        "zemmour": 9
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-04-04",
+      "sampleSize": 1687,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3.5,
+        "melenchon": 16,
+        "hidalgo": 2,
+        "jadot": 5.5,
+        "macron": 26.5,
+        "pecresse": 8.5,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 21,
+        "zemmour": 10.5
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-04-04",
+      "sampleSize": 3008,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 15.5,
+        "hidalgo": 2,
+        "jadot": 4.5,
+        "macron": 27.5,
+        "pecresse": 10,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 22,
+        "zemmour": 10
+      }
+    },
+    {
+      "pollster": "Kantar Archived 2022-04-05 at the Wayback Machine",
+      "fieldworkEnd": "2022-04-05",
+      "sampleSize": 1394,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 16,
+        "hidalgo": 2.5,
+        "jadot": 5,
+        "macron": 25,
+        "pecresse": 8,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 23,
+        "zemmour": 11
+      }
+    },
+    {
+      "pollster": "Elabe",
+      "fieldworkEnd": "2022-04-05",
+      "sampleSize": 1538,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1.5,
+        "roussel": 2.5,
+        "melenchon": 15.5,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 28,
+        "pecresse": 8,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 23,
+        "zemmour": 9
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-04-05",
+      "sampleSize": 1719,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3.5,
+        "melenchon": 16.5,
+        "hidalgo": 2,
+        "jadot": 5.5,
+        "macron": 27,
+        "pecresse": 8,
+        "lassalle": 3,
+        "dupont_aignan": 2.5,
+        "le_pen": 20.5,
+        "zemmour": 10
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-04-05",
+      "sampleSize": 1777,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 15,
+        "hidalgo": 2,
+        "jadot": 6,
+        "macron": 27,
+        "pecresse": 9,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 23,
+        "zemmour": 9
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-04-05",
+      "sampleSize": 3007,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 0.5,
+        "roussel": 3,
+        "melenchon": 16.5,
+        "hidalgo": 2.5,
+        "jadot": 4.5,
+        "macron": 27,
+        "pecresse": 9.5,
+        "lassalle": 2,
+        "dupont_aignan": 1.5,
+        "le_pen": 23,
+        "zemmour": 9.5
+      }
+    },
+    {
+      "pollster": "Odoxa",
+      "fieldworkEnd": "2022-04-06",
+      "sampleSize": 1897,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 16,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 28,
+        "pecresse": 7,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 24,
+        "zemmour": 8
+      }
+    },
+    {
+      "pollster": "AtlasIntel",
+      "fieldworkEnd": "2022-04-06",
+      "sampleSize": 1946,
+      "scores": {
+        "arthaud": 0.6,
+        "poutou": 0.4,
+        "roussel": 2.2,
+        "melenchon": 18.6,
+        "hidalgo": 2.3,
+        "jadot": 5,
+        "macron": 27.8,
+        "pecresse": 5.3,
+        "lassalle": 1.3,
+        "dupont_aignan": 2.9,
+        "le_pen": 21.3,
+        "zemmour": 12
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-04-06",
+      "sampleSize": 1712,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3.5,
+        "melenchon": 17,
+        "hidalgo": 2,
+        "jadot": 6,
+        "macron": 27,
+        "pecresse": 8,
+        "lassalle": 2.5,
+        "dupont_aignan": 2,
+        "le_pen": 22,
+        "zemmour": 8.5
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-04-06",
+      "sampleSize": 1902,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 16,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 27,
+        "pecresse": 9,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 23,
+        "zemmour": 9
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-04-06",
+      "sampleSize": 3010,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 0.5,
+        "roussel": 2.5,
+        "melenchon": 17.5,
+        "hidalgo": 2,
+        "jadot": 4.5,
+        "macron": 27,
+        "pecresse": 9,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 23.5,
+        "zemmour": 9
+      }
+    },
+    {
+      "pollster": "BVA",
+      "fieldworkEnd": "2022-04-07",
+      "sampleSize": 1010,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 2.5,
+        "melenchon": 17.5,
+        "hidalgo": 2.5,
+        "jadot": 4.5,
+        "macron": 26,
+        "pecresse": 8.5,
+        "lassalle": 2.5,
+        "dupont_aignan": 2,
+        "le_pen": 23,
+        "zemmour": 9.5
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-04-07",
+      "sampleSize": 1716,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3.5,
+        "melenchon": 16.5,
+        "hidalgo": 2,
+        "jadot": 5.5,
+        "macron": 26.5,
+        "pecresse": 8.5,
+        "lassalle": 2.5,
+        "dupont_aignan": 2,
+        "le_pen": 23,
+        "zemmour": 8.5
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-04-07",
+      "sampleSize": 2043,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 17,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 26,
+        "pecresse": 9,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 22,
+        "zemmour": 9
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-04-07",
+      "sampleSize": 3010,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 2.5,
+        "melenchon": 17.5,
+        "hidalgo": 2,
+        "jadot": 4.5,
+        "macron": 26.5,
+        "pecresse": 9,
+        "lassalle": 2.5,
+        "dupont_aignan": 1.5,
+        "le_pen": 24,
+        "zemmour": 8.5
+      }
+    },
+    {
+      "pollster": "YouGov",
+      "fieldworkEnd": "2022-04-07",
+      "sampleSize": 1783,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 2,
+        "melenchon": 16,
+        "hidalgo": 1,
+        "jadot": 5,
+        "macron": 26,
+        "pecresse": 6,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 23,
+        "zemmour": 13
+      }
+    },
+    {
+      "pollster": "Ipsos",
+      "fieldworkEnd": "2022-04-08",
+      "sampleSize": 10425,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 17.5,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 26.5,
+        "pecresse": 8.5,
+        "lassalle": 2,
+        "dupont_aignan": 2.5,
+        "le_pen": 22.5,
+        "zemmour": 9
+      }
+    },
+    {
+      "pollster": "Harris-Interactive",
+      "fieldworkEnd": "2022-04-08",
+      "sampleSize": 1889,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 2.5,
+        "melenchon": 18,
+        "hidalgo": 2,
+        "jadot": 4.5,
+        "macron": 27,
+        "pecresse": 8,
+        "lassalle": 2,
+        "dupont_aignan": 2,
+        "le_pen": 24,
+        "zemmour": 8.5
+      }
+    },
+    {
+      "pollster": "Elabe",
+      "fieldworkEnd": "2022-04-08",
+      "sampleSize": 1691,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 2.5,
+        "melenchon": 17.5,
+        "hidalgo": 2,
+        "jadot": 4,
+        "macron": 26,
+        "pecresse": 8,
+        "lassalle": 2.5,
+        "dupont_aignan": 2.5,
+        "le_pen": 25,
+        "zemmour": 8.5
+      }
+    },
+    {
+      "pollster": "Cluster17",
+      "fieldworkEnd": "2022-04-08",
+      "sampleSize": 3097,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 2.5,
+        "melenchon": 18,
+        "hidalgo": 2,
+        "jadot": 4,
+        "macron": 26,
+        "pecresse": 9,
+        "lassalle": 3,
+        "dupont_aignan": 3,
+        "le_pen": 21,
+        "zemmour": 9.5
+      }
+    },
+    {
+      "pollster": "Ipsos-Sopra Steria",
+      "fieldworkEnd": "2022-04-08",
+      "sampleSize": 1709,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 16.5,
+        "hidalgo": 2.5,
+        "jadot": 5,
+        "macron": 26.5,
+        "pecresse": 8.5,
+        "lassalle": 2,
+        "dupont_aignan": 2.5,
+        "le_pen": 23,
+        "zemmour": 9
+      }
+    },
+    {
+      "pollster": "OpinionWay-Kéa",
+      "fieldworkEnd": "2022-04-08",
+      "sampleSize": 2041,
+      "scores": {
+        "arthaud": 1,
+        "poutou": 1,
+        "roussel": 3,
+        "melenchon": 17,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 26,
+        "pecresse": 9,
+        "lassalle": 3,
+        "dupont_aignan": 2,
+        "le_pen": 22,
+        "zemmour": 9
+      }
+    },
+    {
+      "pollster": "Ifop-Fiducial",
+      "fieldworkEnd": "2022-04-08",
+      "sampleSize": 3016,
+      "scores": {
+        "arthaud": 0.5,
+        "poutou": 1,
+        "roussel": 2.5,
+        "melenchon": 17,
+        "hidalgo": 2,
+        "jadot": 5,
+        "macron": 26,
+        "pecresse": 9,
+        "lassalle": 2.5,
+        "dupont_aignan": 1.5,
+        "le_pen": 24,
+        "zemmour": 9
+      }
+    }
+  ]
+}

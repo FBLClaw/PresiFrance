@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# Env
+.env
+.env.local
+
+# Logs & OS
+*.log
+.DS_Store
+
+# IDE
+.vscode/
+
+# Data (CSV sources)
+parrainages*.csv
+
+# Build scripts — cache téléchargement Wikipédia
+.tmp-wiki-polls.json
+
+# env files
+.env
+.env.*
+!.env.example
+!.env.*.example
