@@ -54,7 +54,23 @@ export default defineConfig(({ mode }) => ({
     googleSiteVerificationMeta(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg', 'logo.png'],
+      includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg', 'logo.svg'],
+      workbox: {
+        globPatterns: ['**/*.{html,css,ico,svg,webmanifest}'],
+        runtimeCaching: [
+          {
+            urlPattern: ({ request }) => request.destination === 'script',
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'js-assets',
+              expiration: {
+                maxEntries: 60,
+                maxAgeSeconds: 60 * 60 * 24 * 30,
+              },
+            },
+          },
+        ],
+      },
       manifest: {
         name: 'PrésiFrance',
         short_name: 'PrésiFrance',

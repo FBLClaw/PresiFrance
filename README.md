@@ -55,6 +55,8 @@ npm run build:photos
 
 Les fichiers de donnees generes sont versionnes dans `public/data` afin que le site fonctionne rapidement sans dependance serveur. Les CSV sources locaux (`parrainages*.csv`) et caches temporaires ne sont pas versionnes.
 
+La provenance, la regeneration et la strategie de taille sont detaillees dans [DATA.md](DATA.md).
+
 Les principaux points d'entree sont :
 
 - `public/data/presidential/manifest.json`

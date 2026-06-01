@@ -414,7 +414,7 @@ const CommunePage = () => {
                                 <div className="bg-background border border-border px-4 py-2 rounded-lg shadow-xl">
                                   <p className="font-bold">{payload[0].payload.year}</p>
                                   <p className="text-primary text-lg font-black">
-                                    {payload[0].value?.toFixed(1)}% de participation
+                                    {Number(payload[0].value ?? 0).toFixed(1)}% de participation
                                   </p>
                                 </div>
                               );
@@ -545,7 +545,7 @@ const CommunePage = () => {
             <Card className="border-border/50 overflow-hidden">
               <div className="h-80 w-full rounded-b-lg overflow-hidden">
                 <MapContainer
-                  center={[geo.centre.coordinates[1], geo.centre.coordinates[0]]}
+                  center={[geo.centre.coordinates[1], geo.centre.coordinates[0]] as [number, number]}
                   zoom={12}
                   className="h-full w-full"
                   scrollWheelZoom={true}
@@ -554,7 +554,7 @@ const CommunePage = () => {
                     attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
                     url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                   />
-                  <Marker position={[geo.centre.coordinates[1], geo.centre.coordinates[0]]}>
+                  <Marker position={[geo.centre.coordinates[1], geo.centre.coordinates[0]] as [number, number]}>
                     <Popup>{geo.nom}</Popup>
                   </Marker>
                 </MapContainer>

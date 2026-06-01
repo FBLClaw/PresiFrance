@@ -11,7 +11,7 @@ const DEFAULT_TITLE = `${SITE_NAME} — Élections présidentielles françaises`
 const DEFAULT_DESC =
   "Explorez les résultats par commune, la participation et les parrainages des élections présidentielles. Données ouvertes.";
 
-const SEOHead = ({ title, description, path }: Props) => {
+const SEOHead = ({ title, description, path }: Props): null => {
   useEffect(() => {
     const fullTitle = title ? `${title} — ${SITE_NAME}` : DEFAULT_TITLE;
     const desc = description || DEFAULT_DESC;

@@ -1,0 +1,30 @@
+name: Feature request
+description: Suggest an improvement, dataset, analysis, or workflow.
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or use case
+      description: What should this help users understand or do?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: Describe the expected behavior, page, data, or interaction.
+    validations:
+      required: true
+  - type: textarea
+    id: data
+    attributes:
+      label: Data sources
+      description: Add source URLs, licences, and attribution requirements if the feature needs new data.
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives
+      description: Other approaches considered.

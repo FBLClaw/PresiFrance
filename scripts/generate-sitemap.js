@@ -1,5 +1,6 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
+import { pathToFileURL } from "node:url";
 import { departmentRoutes, staticRoutes } from "./seo-routes.mjs";
 
 const distDir = path.resolve(process.cwd(), "dist");
@@ -7,11 +8,11 @@ const distDir = path.resolve(process.cwd(), "dist");
 // Configure with: SITE_URL="https://presifrance.fr" npm run build
 const siteUrl = String(process.env.SITE_URL || "https://presifrance.fr").replace(/\/+$/, "");
 
-function isoDate(d = new Date()) {
+export function isoDate(d = new Date()) {
   return d.toISOString().replace(/\.\d{3}Z$/, "Z");
 }
 
-function escapeXml(s) {
+export function escapeXml(s) {
   return s
     .replaceAll("&", "&amp;")
     .replaceAll("<", "&lt;")
@@ -27,7 +28,7 @@ const allRoutes = [
 ];
 
 // Helper to split into chunks of 50k (Google limit)
-function chunkSitemap(routes, chunkSize = 45000) {
+export function chunkSitemap(routes, chunkSize = 45000) {
   const chunks = [];
   for (let i = 0; i < routes.length; i += chunkSize) {
     chunks.push(routes.slice(i, i + chunkSize));
@@ -37,7 +38,7 @@ function chunkSitemap(routes, chunkSize = 45000) {
 
 const sitemapChunks = chunkSitemap(allRoutes);
 
-async function generateSitemaps() {
+export async function generateSitemaps() {
   await mkdir(distDir, { recursive: true });
 
   if (sitemapChunks.length === 1) {
@@ -67,4 +68,6 @@ async function generateSitemaps() {
   console.log(`[sitemap] wrote ${allRoutes.length} URLs across ${sitemapChunks.length} file(s) (SITE_URL=${siteUrl})`);
 }
 
-await generateSitemaps();
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  await generateSitemaps();
+}
